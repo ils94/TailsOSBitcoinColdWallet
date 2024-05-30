@@ -234,8 +234,6 @@ Escribe:
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
-/Images/52.png?raw=true)
-
 56. Ahora crearemos otra cartera. Esta vez, será nuestra cartera **Online** (o de solo lectura).
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/53.png?raw=true)
