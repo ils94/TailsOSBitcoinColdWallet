@@ -254,7 +254,7 @@ Digite:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/57.png?raw=true)
 
-61. Sua carteira watching-only é criada, e você será apresentado com um aviso dizendo **This wallet is watching-only. This means you will not be able to spend Bitcoins with it. Make sure you own the seed phrase or private keys, before you request Bitcoins to be sent to this wallet.**
+61. Sua carteira watching-only é criada, e você será apresentado com um aviso dizendo **Esta carteira é de apenas visualização. Isso significa que você não poderá gastar Bitcoins com ela. Certifique-se de possuir a frase-semente ou chaves privadas antes de solicitar que Bitcoins sejam enviados para esta carteira.**
 
 Uma carteira watching-only é apenas para mostrar endereços e saldo de Bitcoin, você pode enviar Bitcoins dela, mas somente se você assinar a transação com sua carteira **Offline** primeiro.
 
