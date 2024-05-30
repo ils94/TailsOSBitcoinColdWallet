@@ -10,7 +10,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
-4. Plug in your USB stick and start balenaEtcher.
+3. Plug in your USB stick and start balenaEtcher.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
