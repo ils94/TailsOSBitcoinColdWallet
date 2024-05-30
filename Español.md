@@ -8,7 +8,7 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. Después de descargar la imagen USB, verifique la descarga yendo a la página de descargas y subiendo su imagen descargada haciendo clic en el botón que dice **Select your download to verify...**. Si la verificación es exitosa, puede continuar; de lo contrario, debe volver a descargar la imagen. Luego, descargue balenaEtcher desde este enlace: https://tails.net/etcher/balenaEtcher-portable.exe
+2. Después de descargar la imagen USB, verifique la descarga yendo a la página de descargas y subiendo su imagen descargada haciendo clic en el botón que dice **Select your download to verify...** Si la verificación es exitosa, puede continuar; de lo contrario, debe volver a descargar la imagen. Luego, descargue balenaEtcher desde este enlace: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
