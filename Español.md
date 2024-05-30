@@ -1,3 +1,5 @@
+**Este tutorial fue traducido del inglés al español usando ChatGPT. Puede haber algunos errores de traducción, ¡pero espero que aún tenga sentido para la comunidad hispanohablante!**
+
 **Tutorial en Español: Creando una Cartera Fría de Bitcoin Usando Tails OS y Almacenamiento Persistente**
 
 En este tutorial, estaré usando Windows 10. También necesitarás un USB con al menos 8GB de espacio.
