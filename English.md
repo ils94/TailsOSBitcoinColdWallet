@@ -234,7 +234,7 @@ Type:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
-56. Let's now create another wallet. This time, it will be our **Online** wallet (or Watch-only).
+56. Let's now create another wallet. This time, it will be our **Online** wallet (or watching-only).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/53.png?raw=true)
 
