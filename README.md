@@ -1,1 +1,1 @@
-# Creating a Bitcoin Cold Wallet using Tails OS with Persistent Storage
+# English Tutorial [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/English.md)
