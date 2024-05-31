@@ -1,3 +1,5 @@
+**Dieses Tutorial wurde von Englisch nach Deutsch mit ChatGPT übersetzt. Es können einige Übersetzungsfehler vorhanden sein, aber ich hoffe, es macht trotzdem Sinn für die Deutsch sprechende Community!**
+
 **Deutsches Tutorial: Erstellen einer Bitcoin Cold Wallet mit Tails OS und Persistentem Speicher**
 
 In diesem Tutorial verwende ich Windows 10. Sie benötigen auch einen USB-Stick mit mindestens 8 GB Speicherplatz.
@@ -248,7 +250,7 @@ Tippen Sie:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/55.png?raw=true)
 
-59. Fügen Sie Ihren **Master Public Key** ein, den Sie aus Ihrem **Offline** -Wallet kopiert haben. Klicken Sie auf **Next**.
+59. Fügen Sie Ihren **Master Public Key** ein, den Sie aus Ihrem **Offline**-Wallet kopiert haben. Klicken Sie auf **Next**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/56.png?raw=true)
 
@@ -262,6 +264,6 @@ Ein nur zum Anzeigen Wallet dient nur zum Anzeigen von Adressen und dem Bitcoin-
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/58.png?raw=true)
 
-62. Überprüfen Sie nun, ob die Adressen des **Online** -Wallets mit dem **Offline** -Wallet übereinstimmen. Wenn ja, dann sind Sie fertig. Viel Glück.
+62. Überprüfen Sie nun, ob die Adressen des **Online**-Wallets mit dem **Offline**-Wallet übereinstimmen. Wenn ja, dann sind Sie fertig. Viel Glück.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/59.png?raw=true)
