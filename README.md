@@ -4,3 +4,4 @@
 # Руководство на русском [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Russian.md)
 # 한국어 튜토리얼 [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Korean.md)
 # 中文教程 [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Chinese.md)
+# 日本語チュートリアル [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Japonese.md)
