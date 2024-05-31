@@ -8,3 +8,4 @@
 # Tutorial auf Deutsch [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Deutsch.md)
 # البرنامج التعليمي باللغة العربية [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Arabic.md)
 # हिंदी में ट्यूटोरियल [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Hindi.md)
+# Tutoriel en Français [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/French.md)
