@@ -116,7 +116,7 @@ In diesem Tutorial verwende ich Windows 10. Sie benötigen auch einen USB-Stick 
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/27.png?raw=true)
 
-29. Sie können Ihre Downloads im **Downloads** -Symbol in der Browserleiste sehen.
+29. Sie können Ihre Downloads im **Downloads**-Symbol in der Browserleiste sehen.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
@@ -128,7 +128,7 @@ In diesem Tutorial verwende ich Windows 10. Sie benötigen auch einen USB-Stick 
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/30.png?raw=true)
 
-32. Jetzt werden wir Schlüssel importieren und überprüfen, ob alles mit der Datei **bip39-standalone.html**, die wir heruntergeladen haben, in Ordnung ist. Sie können jeden Befehl durch Drücken der **Tab** -Taste vervollständigen.
+32. Jetzt werden wir Schlüssel importieren und überprüfen, ob alles mit der Datei **bip39-standalone.html**, die wir heruntergeladen haben, in Ordnung ist. Sie können jeden Befehl durch Drücken der **Tab**-Taste vervollständigen.
 
 Tippen Sie:
 
