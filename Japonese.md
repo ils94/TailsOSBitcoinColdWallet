@@ -4,7 +4,7 @@
 
 このチュートリアルでは、Windows 10 を使用します。また、少なくとも8GBの空き容量のあるUSBメモリが必要です。
 
-1. https://tails.net/install/download/index.pt.html にアクセスし、USB イメージをダウンロードします。
+1. https://tails.net/install/download/index.en.html にアクセスし、USB イメージをダウンロードします。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
