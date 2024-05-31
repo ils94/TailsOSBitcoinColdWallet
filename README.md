@@ -6,3 +6,4 @@
 # 中文教程 [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Chinese.md)
 # 日本語チュートリアル [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Japonese.md)
 # Tutorial auf Deutsch [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Deutsch.md)
+# دروس باللغة العربية [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Arabic.md)
