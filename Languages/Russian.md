@@ -8,11 +8,11 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. После загрузки USB-образа, проверьте его, перейдя на страницу загрузки и загрузив скачанный образ, нажав кнопку **Select your download to verify...** Если проверка прошла успешно, вы можете продолжить; в противном случае, вам нужно будет скачать образ снова. Затем скачайте balenaEtcher по этой ссылке: https://tails.net/etcher/balenaEtcher-portable.exe
+2. После загрузки USB-образа, проверьте его, перейдя на страницу загрузки и загрузив скачанный образ, нажав кнопку **Select your download to verify...** Если проверка прошла успешно, вы можете продолжить; в противном случае, вам нужно будет скачать образ снова. Затем скачайте **balenaEtcher** по этой ссылке: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
-3. Подключите флеш-накопитель и запустите balenaEtcher.
+3. Подключите флеш-накопитель и запустите **balenaEtcher**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
@@ -24,7 +24,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/04.png?raw=true)
 
-6. После завершения закройте balenaEtcher и загрузитесь с флеш-накопителя.
+6. После завершения закройте **balenaEtcher** и загрузитесь с флеш-накопителя.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
