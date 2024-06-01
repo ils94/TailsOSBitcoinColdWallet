@@ -58,11 +58,11 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Tails OS को पुनरारंभ करें और अपना पासवर्ड दर्ज करें। फिर, **Unlock Encryption** बटन पर क्लिक करें ताकि आप अपने Tails Persistent Storage को अनलॉक कर सकें।
+14. Tails OS को पुनः शुरू करें और अपना पासवर्ड दर्ज करें। फिर, **Unlock Encryption** बटन पर क्लिक करें ताकि आप अपनी **Tails Persistent Storage** को अनलॉक कर सकें।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. एक बार Persistent Storage अनलॉक हो जाने के बाद, **Start Tails** बटन पर क्लिक करें।
+15. **Persistent Storage** अनलॉक होने के बाद, **Start Tails** बटन पर क्लिक करें।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. **signature.txt.asc** सहेजने के लिए, GPG Public Key के समान ही करें: उस पर राइट-क्लिक करें और **Save Link As...** चुनें।
+27. **signature.txt.asc** को सेव करने के लिए, उसी प्रकार करें जैसे **GPG Public Key** के लिए किया था और उस पर राइट-क्लिक करें और **Save Link As...** चुनें।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -231,6 +231,12 @@
 53. यदि दोनों पहले पते मेल खाते हैं (और दूसरा, और तीसरा और इसी तरह) तो इसका मतलब है कि आपका वॉलेट **Electrum Bitcoin Wallet** में सही ढंग से इम्पोर्ट किया गया था।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**यह वह हिस्सा है जहाँ हम अपना Online Wallet बनाते हैं, और आपके पास दो विकल्प हैं:**
+
+- **1- आप Online Wallet को उसी Tails OS की स्थापना में बना सकते हैं जिसमें आपका Offline Wallet होता है। इस स्थिति में, जब आप Offline Wallet का उपयोग करते हैं तो इंटरनेट से कनेक्ट न करें ताकि आपके Bitcoins पर किसी भी प्रकार के अटैक वेक्टर को रोका जा सके।**
+
+- **2- आप एक अन्य USB स्टिक का उपयोग कर सकते हैं, ऊपर दिए गए समान प्रक्रिया का पालन करें, और फिर नए USB स्टिक पर अपना Online Wallet बनाने के लिए अगले चरणों का पालन करें। यह इंटरनेट से जुड़े होते समय आपके Offline Wallet तक पहुंचने में मानवीय त्रुटि को रोकने में मदद करता है।**
 
 54. अब **Electrum Bitcoin Wallet** पर जाएं और **Information** पर जाएं।
 
