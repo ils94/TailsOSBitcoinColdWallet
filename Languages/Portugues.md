@@ -56,11 +56,11 @@ Neste tutorial, usarei o Windows 10. Você também precisará de um pen drive co
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Reinicie o Tails OS e insira sua senha. Em seguida, clique no botão **Unlock Encryption** para desbloquear seu armazenamento persistente do Tails.
+14. Reinicie o Tails OS e insira sua senha. Em seguida, clique no botão **Unlock Encryption** para desbloquear seu **Tails Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. Uma vez que o armazenamento persistente esteja desbloqueado, clique no botão **Start Tails**.
+15. Uma vez que o **Persistent Storage** esteja desbloqueado, clique no botão **Start Tails**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -108,7 +108,7 @@ Neste tutorial, usarei o Windows 10. Você também precisará de um pen drive co
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. Para salvar **signature.txt.asc**, faça o mesmo que para a chave pública GPG: clique com o botão direito e selecione **Save Link As...**
+27. Para salvar **signature.txt.asc**, faça o mesmo que para a **GPG Public Key** e clique com o botão direito e selecione **Save Link As...**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -229,6 +229,12 @@ Digite:
 53. Se ambos os primeiros endereços corresponderem (e o segundo, o terceiro e assim por diante), significa que sua carteira foi importada corretamente para a **Electrum Bitcoin Wallet**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**Esta é a parte em que criamos nossa Carteira Online, e você tem duas opções:**
+
+- **1- Você pode criar a Carteira Online dentro da mesma instalação do Tails OS que contém sua Carteira Offline. Neste caso, NÃO CONECTE À INTERNET ao acessar a Carteira Offline para evitar qualquer vetor de ataque em seus Bitcoins.**
+
+- **2- Você pode usar outro pendrive USB, seguir o mesmo processo que acima e, em seguida, seguir os próximos passos para criar sua Carteira Online no novo pendrive USB. Isso ajuda a prevenir erros humanos ao acessar sua Carteira Offline enquanto conectado à internet.**
 
 54. Agora vá para a **Electrum Bitcoin Wallet** e vá para **Information**.
 
