@@ -1,3 +1,5 @@
+# Jest bardzo ważne, aby regularnie aktualizować swoją wersję TailsOS, aby uniknąć wszelkich rodzajów złośliwych ataków, które mogłyby ukraść Twoje Bitcoiny! Jeśli używasz przestarzałej wersji TailsOS, pamiętaj, ŻE NIGDY nie łącz się z internetem podczas korzystania z portfela offline! Użyj drugiego dysku USB, aby utworzyć swój portfel online, lub skorzystaj z innych metod, aby mieć portfel online na Androidzie lub iOS, oraz użyj metody powietrznej szczeliny, aby podpisywać swoje transakcje za pomocą kodu QR. Nie ponoszę odpowiedzialności za żadne kradzieże Twoich Bitcoinów, jeśli złamiesz jakiekolwiek zasady bezpieczeństwa, w tym ignorując to ostrzeżenie.
+
 **Ten samouczek został przetłumaczony z angielskiego na polski przy użyciu ChatGPT. Mogą występować błędy tłumaczenia, ale mam nadzieję, że wciąż będzie to sensowne dla polskiej społeczności!**
 
 **Polski Przewodnik: Tworzenie Zimnego Portfela Bitcoin przy użyciu Systemu Tails i Trwałego Przechowywania**
