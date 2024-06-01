@@ -58,11 +58,11 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Reinicia Tails OS e ingresa tu contraseña. Luego, haz clic en el botón **Unlock Encryption** para desbloquear tu Almacenamiento Persistente de Tails.
+14. Reinicia Tails OS y ingresa tu contraseña. Luego, haz clic en el botón **Unlock Encryption** para desbloquear tu **Tails Persistent Storage**.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. Una vez desbloqueado el Almacenamiento Persistente, haz clic en el botón **Start Tails**.
+15. Una vez que el **Persistent Storage** esté desbloqueado, haz clic en el botón **Start Tails**.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. Para guardar **signature.txt.asc**, haz lo mismo que para la Clave Pública GPG: haz clic derecho en él y selecciona **Save Link As...**
+27. Para guardar **signature.txt.asc**, haz lo mismo que para la **GPG Public Key** y haz clic derecho sobre ella y selecciona **Save Link As...**.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -231,6 +231,12 @@ Escribe:
 53. Si coinciden todas las primeras direcciones (y la segunda, y la tercera, etc.), significa que tu cartera fue importada correctamente a **Electrum Bitcoin Wallet**.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**Esta es la parte donde creamos nuestra Online Wallet, y tienes dos opciones:**
+
+- **1- Puedes crear la Online Wallet dentro de la misma instalación de Tails OS que contiene tu Offline Wallet. En este caso, NO DEBES CONECTARTE A INTERNET cuando accedas a la Offline Wallet para prevenir cualquier vector de ataque en tus Bitcoins.**
+
+- **2- Puedes usar otro USB stick, seguir el mismo proceso anterior y luego seguir los siguientes pasos para crear tu Online Wallet en el nuevo USB stick. Esto ayuda a prevenir errores humanos al acceder a tu Offline Wallet mientras estás conectado a internet.**
 
 54. Ahora ve a **Electrum Bitcoin Wallet** y ve a **Information**.
 
