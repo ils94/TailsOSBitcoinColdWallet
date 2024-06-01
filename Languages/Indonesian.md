@@ -208,7 +208,7 @@ Ketik:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. Pilih kata sandi yang kuat untuk mengenkripsi dompet Offline Anda. Tekan **Next**.
+48. Pilih kata sandi yang kuat untuk mengenkripsi dompet **Offline** Anda. Tekan **Next**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
