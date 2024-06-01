@@ -208,7 +208,7 @@ Digita:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. Scegli una password forte per crittografare il tuo portafoglio Offline. Premi **Next**.
+48. Scegli una password forte per crittografare il tuo portafoglio **Offline**. Premi **Next**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
