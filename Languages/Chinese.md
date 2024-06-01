@@ -208,7 +208,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. 选择一个强密码来加密你的离线钱包。点击 **Next**。
+48. 选择一个强密码来加密你的 **Offline** 钱包。点击 **Next**。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
