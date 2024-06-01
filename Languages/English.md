@@ -56,11 +56,11 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Restart Tails OS and enter your password. Then, click the **Unlock Encryption** button to unlock your Tails Persistent Storage.
+14. Restart Tails OS and enter your password. Then, click the **Unlock Encryption** button to unlock your **Tails Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. Once the Persistent Storage is unlocked, click the **Start Tails** button.
+15. Once the **Persistent Storage** is unlocked, click the **Start Tails** button.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -108,7 +108,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. To save **signature.txt.asc**, do the same as for the GPG Public Key: right-click it and select **Save Link As...**
+27. To save **signature.txt.asc**, do the same as for the **GPG Public Key** and right-click it and select **Save Link As...**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
