@@ -32,7 +32,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
-8. انتقل إلى **Applications** وابحث عن **Persistent Storage** (يجب أن يكون في علامة التبويب Favorites).
+8. انتقل إلى **Applications** وابحث عن **Persistent Storage** (يجب أن يكون في علامة التبويب **Favorites**).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/07.png?raw=true)
 
