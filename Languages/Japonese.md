@@ -58,11 +58,11 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Tails OSを再起動し、パスワードを入力します。その後、**Unlock Encryption** ボタンをクリックしてTails Persistent Storageを解除します。
+14. Tails OSを再起動し、パスワードを入力します。その後、**Unlock Encryption**ボタンをクリックして**Tails Persistent Storage**を解除します。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. Persistent Storageが解除されたら、**Start Tails** ボタンをクリックします。
+15. **Persistent Storage**が解除されたら、**Start Tails**ボタンをクリックします。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. **signature.txt.asc** を保存するには、GPG Public Keyと同様に、右クリックして **Save Link As...** を選択します。
+27. **signature.txt.asc**を保存するには、**GPG Public Key**と同じように右クリックして「**Save Link As...**」を選択します。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -231,6 +231,12 @@
 53. 最初のアドレスが一致している場合（および2番目、3番目などが一致している場合）、ウォレットが正しく **Electrum Bitcoin Wallet** にインポートされたことを意味します。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**ここでは、オンラインウォレットを作成する部分です。2つのオプションがあります：**
+
+- **1- オフラインウォレットを含むTails OSの同じインストール内でオンラインウォレットを作成できます。この場合、オフラインウォレットにアクセスする際にはインターネットに接続しないでください。ビットコインへの攻撃ベクターを防ぐためです。**
+
+- **2- 別のUSBスティックを使用し、上記と同じプロセスに従ってから、新しいUSBスティックでオンラインウォレットを作成するための次の手順に従います。これは、インターネットに接続しながらオフラインウォレットにアクセスする人為的なエラーを防ぐのに役立ちます。**
 
 54. 次に、**Electrum Bitcoin Wallet** に移動し、**Information** にアクセスします。
 
