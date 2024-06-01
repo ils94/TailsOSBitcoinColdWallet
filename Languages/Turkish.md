@@ -1,3 +1,5 @@
+# TailsOS sürümünüzü güncel tutmak çok önemlidir, çünkü Bitcoins'lerinizi çalabilecek her türlü kötü niyetli saldırıdan kaçınmanıza yardımcı olur! Eğer eski bir TailsOS sürümü kullanıyorsanız, çevrimdışı cüzdanınıza erişirken ASLA internete bağlanmamayı unutmayın! Çevrimiçi cüzdanınızı oluşturmak için ikinci bir USB sürücü kullanın veya Android veya iOS'ta çevrimiçi cüzdanınızı kullanmanın diğer yollarını kullanın ve işlemlerinizi QR Kodu ile imzalamak için hava boşluğu yöntemlerini kullanın. Bu uyarıyı göz ardı ederek güvenlik kurallarını ihlal ederseniz, Bitcoins'lerinizin çalınması durumunda herhangi bir sorumluluk kabul etmiyorum.
+
 **Bu kılavuz, İngilizce'den Türkçe'ye ChatGPT kullanılarak çevrildi. Bazı çeviri hataları olabilir, ancak umarım Türkçe konuşan topluluk için hala anlamlı olur!**
 
 **Türkçe Kılavuz: Tails OS ve Kalıcı Depolama Kullanarak Bitcoin Soğuk Cüzdan Oluşturma**
