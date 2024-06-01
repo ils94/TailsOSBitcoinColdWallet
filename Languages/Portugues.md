@@ -206,7 +206,7 @@ Digite:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. Escolha uma senha forte para criptografar sua carteira offline. Clique em **Next**.
+48. Escolha uma senha forte para criptografar sua carteira **Offline**. Clique em **Next**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
