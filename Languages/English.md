@@ -38,7 +38,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Create a strong password to encrypt your Tails OS installation. Press the **Create Persistent Storage** button.
+10. Create a strong password to encrypt your Tails OS installation. Click the **Create Persistent Storage** button.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
