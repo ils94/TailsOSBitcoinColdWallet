@@ -96,7 +96,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. Now, go to **Ian Coleman's GitHub** page at this link: https://github.com/iancoleman/bip39 and go to Releases. You can access releases from this link: https://github.com/iancoleman/bip39/releases
+24. Now, go to **Ian Coleman GitHub** page at this link: https://github.com/iancoleman/bip39 and go to Releases. You can access releases from this link: https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
