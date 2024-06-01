@@ -58,11 +58,11 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Перезагрузите Tails OS и введите пароль. Затем нажмите кнопку **Unlock Encryption**, чтобы разблокировать ваше постоянное хранилище Tails.
+14. Перезагрузите Tails OS и введите пароль. Затем нажмите кнопку **Unlock Encryption** для разблокировки **Tails Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. После разблокировки постоянного хранилища нажмите кнопку **Start Tails**.
+15. После разблокировки **Persistent Storage** нажмите кнопку **Start Tails**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. Чтобы сохранить **signature.txt.asc**, сделайте то же самое, что с GPG Public Key: щелкните правой кнопкой мыши и выберите **Save Link As...**
+27. Чтобы сохранить **signature.txt.asc**, сделайте то же самое, что и для **GPG Public Key**, щелкните правой кнопкой мыши и выберите **Save Link As...**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -231,6 +231,12 @@
 53. Если совпадают оба первых адреса (и второй, и третий и так далее), это означает, что ваш кошелек был правильно импортирован в **Electrum Bitcoin Wallet**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**Это часть, где мы создаем наш онлайн-кошелек, и у вас есть два варианта:**
+
+- **1- Вы можете создать онлайн-кошелек в той же установке Tails OS, которая содержит ваш оффлайн-кошелек. В этом случае НЕ ПОДКЛЮЧАЙТЕСЬ К ИНТЕРНЕТУ при доступе к оффлайн-кошельку, чтобы предотвратить любые векторы атак на ваши биткойны.**
+
+- **2- Вы можете использовать другой USB-накопитель, следуйте тому же процессу, что и выше, а затем выполните следующие шаги для создания вашего онлайн-кошелька на новом USB-накопителе. Это помогает предотвратить человеческую ошибку при доступе к вашему оффлайн-кошельку при подключении к интернету.**
 
 54. Теперь перейдите в **Electrum Bitcoin Wallet** и перейдите в **Information**.
 
