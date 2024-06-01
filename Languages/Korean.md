@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Tails OS를 재시작하고 비밀번호를 입력하세요. 그런 다음 **암호 해제** 버튼을 클릭하여 **Tails Persistent Storage**를 해제합니다.
+14. Tails OS를 재시작하고 비밀번호를 입력하세요. 그런 다음 **Unlock Encryption** 버튼을 클릭하여 **Tails Persistent Storage**를 해제합니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -110,7 +110,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. **signature.txt.asc**를 저장하려면 **GPG Public Key**와 같은 방법으로 마우스 오른쪽 버튼을 클릭하고 **링크 저장**을 선택하세요.
+27. **signature.txt.asc**를 저장하려면 **GPG Public Key**와 같은 방법으로 마우스 오른쪽 버튼을 클릭하고 **Save Link As...** 을 선택하세요.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
