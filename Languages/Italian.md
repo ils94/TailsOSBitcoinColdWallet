@@ -40,7 +40,7 @@ In questo tutorial, utilizzerò Windows 10. Avrai anche bisogno di una chiavetta
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Crea una password forte per crittografare l'installazione di Tails OS. Premi il pulsante **Create Persistent Storage**.
+10. Crea una password sicura per crittografare l'installazione del tuo Tails OS. Clicca sul pulsante **Create Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
