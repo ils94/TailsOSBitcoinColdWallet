@@ -58,11 +58,11 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Tails OS'i yeniden başlatın ve parolanızı girin. Ardından, Tails Persistent Storage'ı açmak için **Unlock Encryption** düğmesine tıklayın.
+14. Tails OS'u yeniden başlatın ve şifrenizi girin. Ardından, **Unlock Encryption** düğmesine tıklayarak **Tails Persistent Storage**'nızı açın.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. Persistent Storage açıldıktan sonra, **Start Tails** düğmesine tıklayın.
+15. **Persistent Storage** açıldıktan sonra, **Start Tails** düğmesine tıklayın.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. **signature.txt.asc** dosyasını kaydetmek için, GPG Public Key için yaptığınız gibi sağ tıklayın ve **Save Link As...** seçeneğini seçin.
+27. **signature.txt.asc**'yi kaydetmek için, **GPG Public Key** ile aynısını yapın ve üzerine sağ tıklayıp **Save Link As...** seçeneğini seçin.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -231,6 +231,12 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 53. Eğer her iki ilk adres eşleşiyorsa (ve ikinci, üçüncü ve devamı), cüzdanınızın **Electrum Bitcoin Wallet**'e doğru bir şekilde aktarıldığı anlamına gelir.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**Bu, Online Cüzdanımızı oluşturduğumuz bölümdür ve iki seçeneğiniz var:**
+
+- **1- Çevrimdışı Cüzdanınızı içeren aynı Tails OS kurulumu içinde Online Cüzdanı oluşturabilirsiniz. Bu durumda, Bitcoins'inize yönelik herhangi bir saldırı vektörünü önlemek için ÇEVRİMİÇİ OLMADAN Çevrimdışı Cüzdana erişirken İNTERNETE BAĞLANMAMALISINIZ.**
+
+- **2- Başka bir USB sürücü kullanabilir, yukarıdaki süreci aynen takip edebilir ve ardından yeni USB sürücüdeki Online Cüzdanınızı oluşturmak için bir sonraki adımları izleyebilirsiniz. Bu, Çevrimdışı Cüzdana internet bağlantısı olanken erişme hatalarını önlemeye yardımcı olur.**
 
 54. Şimdi **Electrum Bitcoin Wallet**'e gidin ve **Information**'a gidin.
 
