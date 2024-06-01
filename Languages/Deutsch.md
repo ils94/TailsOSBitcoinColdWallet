@@ -1,3 +1,5 @@
+# Es ist sehr wichtig, Ihre Version von TailsOS auf dem neuesten Stand zu halten, um jede Art von bösartigen Angriffen zu vermeiden, die Ihre Bitcoins stehlen könnten! Wenn Sie eine veraltete Version von TailsOS verwenden, denken Sie daran, NIEMALS eine Verbindung zum Internet herzustellen, wenn Sie auf Ihre Offline-Wallet zugreifen! Verwenden Sie ein zweites USB-Laufwerk, um Ihre Online-Wallet zu erstellen, oder verwenden Sie andere Mittel, um eine Online-Wallet auf Android oder iOS zu haben, und verwenden Sie Airgap-Methoden, um Ihre Transaktionen per QR-Code zu signieren. Ich übernehme keine Verantwortung für den Diebstahl Ihrer Bitcoins, wenn Sie irgendwelche Sicherheitsregeln brechen, einschließlich der Missachtung dieser Warnung.
+
 **Dieses Tutorial wurde von Englisch nach Deutsch mit ChatGPT übersetzt. Es können einige Übersetzungsfehler vorhanden sein, aber ich hoffe, es macht trotzdem Sinn für die Deutsch sprechende Community!**
 
 **Deutsches Tutorial: Erstellen einer Bitcoin Cold Wallet mit Tails OS und Persistentem Speicher**
