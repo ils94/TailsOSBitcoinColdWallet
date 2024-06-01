@@ -1,3 +1,5 @@
+# Es muy importante mantener tu versión de TailsOS actualizada para evitar cualquier tipo de ataque malicioso que pueda robar tus Bitcoins. ¡Si usas una versión desactualizada de TailsOS, recuerda NUNCA conectarte a internet al acceder a tu cartera offline! Usa una segunda unidad USB para crear tu cartera online, o utiliza otros medios para tener una cartera online en Android o iOS, y usa métodos de airgap para firmar tus transacciones mediante código QR. No me hago responsable de ningún robo de tus Bitcoins si rompes alguna regla de seguridad, incluyendo ignorar esta advertencia.
+
 **Este tutorial fue traducido del inglés al español usando ChatGPT. Puede haber algunos errores de traducción, ¡pero espero que aún tenga sentido para la comunidad hispanohablante!**
 
 **Tutorial en Español: Creando una Cartera Fría de Bitcoin Usando Tails OS y Almacenamiento Persistente**
