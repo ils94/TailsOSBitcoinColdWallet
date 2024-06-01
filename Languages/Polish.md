@@ -208,7 +208,7 @@ Wpisz:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. Wybierz silne hasło, aby zaszyfrować swój portfel Offline. Naciśnij **Next**.
+48. Wybierz silne hasło, aby zaszyfrować swój portfel **Offline**. Naciśnij **Next**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
