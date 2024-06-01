@@ -8,11 +8,11 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. USB 이미지를 다운로드한 후, 다운로드 페이지로 이동하여 다운로드한 이미지를 업로드하고 **Select your download to verify...** 버튼을 클릭하여 다운로드를 확인하세요. 확인이 성공하면 계속 진행할 수 있지만, 그렇지 않으면 이미지를 다시 다운로드해야 합니다. 그런 다음, 이 링크에서 balenaEtcher를 다운로드하세요: https://tails.net/etcher/balenaEtcher-portable.exe
+2. USB 이미지를 다운로드한 후, 다운로드 페이지로 이동하여 다운로드한 이미지를 업로드하고 **Select your download to verify...** 버튼을 클릭하여 다운로드를 확인하세요. 확인이 성공하면 계속 진행할 수 있지만, 그렇지 않으면 이미지를 다시 다운로드해야 합니다. 그런 다음, 이 링크에서 **balenaEtcher** 를 다운로드하세요: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
-3. USB 스틱을 연결하고 balenaEtcher 를 시작합니다.
+3. USB 스틱을 연결하고 **balenaEtcher** 를 시작합니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
@@ -24,7 +24,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/04.png?raw=true)
 
-6. 완료되면 balenaEtcher 를 닫고 USB 스틱에서 부팅합니다.
+6. 완료되면 **balenaEtcher** 를 닫고 USB 스틱에서 부팅합니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
