@@ -1,3 +1,5 @@
+# È molto importante mantenere la tua versione di TailsOS aggiornata per evitare qualsiasi tipo di attacco malevolo che potrebbe rubare i tuoi Bitcoin! Se usi una versione obsoleta di TailsOS, ricorda di NON connetterti mai a Internet quando accedi al tuo portafoglio offline! Usa una seconda chiavetta USB per creare il tuo portafoglio online o utilizza altri mezzi per avere un portafoglio online su Android o iOS, e utilizza metodi airgap per firmare le tue transazioni tramite QR Code. Non sono responsabile di alcun furto dei tuoi Bitcoin se violi le regole di sicurezza, incluso ignorare questo avviso.
+
 **Questo tutorial è stato tradotto dall'inglese all'italiano usando ChatGPT. Potrebbero esserci alcuni errori di traduzione, ma spero che abbia comunque senso per la comunità di lingua italiana!**
 
 **Tutorial Italiano: Creazione di un Portafoglio Freddo Bitcoin Utilizzando Tails OS e Memoria Persistente**
