@@ -1,4 +1,4 @@
-# ¡Es muy importante mantener actualizada tu versión de Tails OS para evitar cualquier tipo de ataque malicioso que pueda robar tus Bitcoins! Si estás utilizando una versión desactualizada de Tails OS, ¡recuerda NUNCA conectarte a internet al acceder a tu billetera offline! Utiliza una segunda unidad USB para crear tu billetera en línea, o utiliza otros medios para tener una billetera en línea en Android o iOS, y utiliza métodos para firmar tus transacciones mediante código QR. No me hago responsable de ningún robo de tus Bitcoins si rompes alguna regla de seguridad, incluyendo ignorar esta advertencia.
+# ¡Es muy importante mantener actualizada tu versión de TailsOS para evitar cualquier tipo de ataque malicioso que pueda robar tus Bitcoins! Si estás utilizando una versión desactualizada de TailsOS, ¡recuerda NUNCA conectarte a internet al acceder a tu billetera offline! Utiliza una segunda unidad USB para crear tu billetera en línea, o utiliza otros medios para tener una billetera en línea en Android o iOS, y utiliza métodos para firmar tus transacciones mediante código QR. No me hago responsable de ningún robo de tus Bitcoins si rompes alguna regla de seguridad, incluyendo ignorar esta advertencia.
 
 **Este tutorial fue traducido del inglés al español usando ChatGPT. Puede haber algunos errores de traducción, ¡pero espero que aún tenga sentido para la comunidad hispanohablante!**
 
@@ -30,7 +30,7 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. En Tails, haz clic en el botón **Start** para iniciar Tails OS.
+7. En **TailsOS**, haz clic en el botón **Start** para iniciar Tails OS.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
@@ -42,7 +42,7 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Cree una contraseña fuerte para cifrar la instalación de su Tails OS. Haga clic en el botón **Create Persistent Storage**.
+10. Cree una contraseña fuerte para cifrar la instalación de su **TailsOS**. Haga clic en el botón **Create Persistent Storage**.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
@@ -58,7 +58,7 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Reinicia Tails OS y ingresa tu contraseña. Luego, haz clic en el botón **Unlock Encryption** para desbloquear tu **Tails Persistent Storage**.
+14. Reinicia **TailsOS** y ingresa tu contraseña. Luego, haz clic en el botón **Unlock Encryption** para desbloquear tu **Tails Persistent Storage**.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -70,7 +70,7 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. Selecciona **Connect to Tor automatically**.
+17. Selecciona **Conectar automáticamente a Tor** y haz clic en el botón **Conectar a Tor**.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -98,7 +98,7 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. Ahora, ve a la página de GitHub de Ian Coleman en este enlace: https://github.com/iancoleman/bip39 y ve a Releases. Puedes acceder a las versiones desde este enlace: https://github.com/iancoleman/bip39/releases
+24. Ahora, ve a la página de **Ian Coleman Github** en este enlace: https://github.com/iancoleman/bip39 y ve a Releases. Puedes acceder a las versiones desde este enlace: https://github.com/iancoleman/bip39/releases
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -122,7 +122,7 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. Ahora, desconecta a Tails OS de Internet. Vamos a crear nuestra cartera
+30. Ahora, desconecta a **TailsOS** de Internet. Vamos a crear nuestra cartera
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -145,7 +145,7 @@ Escribe:
 - gpg --verify signature.txt.asc
 - Presiona Enter
 
-33. Verifica si dice **Good signature** de Ian. Si dice que es bueno, significa que todos los archivos que descargamos son legítimos.
+33. Verifique si dice **Good signature from Ian Coleman <ian@iancoleman.io>**. Si dice que es bueno, significa que todos los archivos que descargamos son legítimos.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -156,7 +156,7 @@ Escribe:
 - sha256sum bip39-standalone.html
 - Presiona Enter
 
-35. Verifica tanto el hash en la Terminal como el hash en el GitHub de Ian. Si coinciden, entonces el archivo **bip39-standalone.html** también es legítimo.
+35. Verifique tanto el hash en la Terminal como el hash en **Ian Coleman Github**. Si coinciden, entonces el archivo **bip39-standalone.html** también es legítimo.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
@@ -234,7 +234,7 @@ Escribe:
 
 **Esta es la parte donde creamos nuestra Online Wallet, y tienes dos opciones:**
 
-- **1- Puedes crear la Online Wallet dentro de la misma instalación de Tails OS que contiene tu Offline Wallet. En este caso, NO DEBES CONECTARTE A INTERNET cuando accedas a la Offline Wallet para prevenir cualquier vector de ataque en tus Bitcoins.**
+- **1- Puedes crear la Online Wallet dentro de la misma instalación de TailsOS que contiene tu Offline Wallet. En este caso, NO DEBES CONECTARTE A INTERNET cuando accedas a la Offline Wallet para prevenir cualquier vector de ataque en tus Bitcoins.**
 
 - **2- Puedes usar otro USB stick, seguir el mismo proceso anterior y luego seguir los siguientes pasos para crear tu Online Wallet en el nuevo USB stick. Esto ayuda a prevenir errores humanos al acceder a tu Offline Wallet mientras estás conectado a internet.**
 
@@ -242,7 +242,7 @@ Escribe:
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/51.png?raw=true)
 
-55. Copia tu **Master Public Key** (no compartas esta clave con nadie. Si alguien obtiene acceso a tu Master Public Key, podrá ver tus direcciones y cuánto Bitcoin posees).
+55. Copia tu **Master Public Key** (no compartas esta clave con nadie. Si alguien obtiene acceso a tu **Master Public Key**, podrá ver tus direcciones y cuánto Bitcoin posees).
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
