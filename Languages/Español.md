@@ -208,7 +208,7 @@ Escribe:
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. Elige una contraseña fuerte para encriptar tu cartera Offline. Haz clic en **Next**.
+48. Elige una contraseña fuerte para encriptar tu cartera **Offline**. Haz clic en **Next**.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
