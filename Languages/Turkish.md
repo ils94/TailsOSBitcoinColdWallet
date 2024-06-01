@@ -208,7 +208,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. Çevrimdışı cüzdanınızı şifrelemek için güçlü bir parola seçin. **Next** düğmesine tıklayın.
+48. Şifreleme için güçlü bir şifre seçin **Offline** cüzdanınızı. **Next** düğmesine tıklayın.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
