@@ -204,7 +204,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. 오프라인 월렛을 암호화하기 위해 강력한 암호를 선택합니다. **Next** 을 클릭합니다.
+48. 강력한 암호를 선택하여 **Offline** 지갑을 암호화하세요. **Next**를 누르세요.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
