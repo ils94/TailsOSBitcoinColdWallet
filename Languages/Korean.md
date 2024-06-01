@@ -32,7 +32,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
-8. **Applications**에 가서 **Persistent Storage**를 찾으세요 (이것은 **favorites** 탭에 있어야 합니다).
+8. **Applications**에 가서 **Persistent Storage**를 찾으세요 (이것은 **Favorites** 탭에 있어야 합니다).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/07.png?raw=true)
 
