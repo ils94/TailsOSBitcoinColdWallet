@@ -58,11 +58,11 @@ W tym tutorialu będę używał Windows 10. Będziesz również potrzebował pen
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Uruchom ponownie Tails OS i wprowadź swoje hasło. Następnie kliknij przycisk **Unlock Encryption**, aby odblokować swoje trwałe przechowywanie w Tails.
+14. Uruchom Tails OS i wprowadź swoje hasło. Następnie kliknij przycisk **Unlock Encryption**, aby odblokować swoje **Tails Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. Po odblokowaniu Persistent Storage, kliknij przycisk **Start Tails**.
+15. Gdy **Persistent Storage** jest odblokowane, kliknij przycisk **Start Tails**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@ W tym tutorialu będę używał Windows 10. Będziesz również potrzebował pen
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. Aby zapisać **signature.txt.asc**, zrób to samo, co w przypadku klucza publicznego GPG: kliknij prawym przyciskiem myszy i wybierz **Save Link As...**
+27. Aby zapisać **signature.txt.asc**, zrób to samo co dla **GPG Public Key**, kliknij prawym przyciskiem myszy i wybierz **Save Link As...**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -231,6 +231,12 @@ Wpisz:
 53. Jeśli oba pierwsze adresy się zgadzają (i drugi, i trzeci i tak dalej), oznacza to, że twój portfel został poprawnie zaimportowany do **Electrum Bitcoin Wallet**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**To jest moment, w którym tworzymy nasz Portfel Online, i masz dwie opcje:**
+
+- **1- Możesz stworzyć Portfel Online w tej samej instalacji Tails OS, która zawiera Twój Portfel Offline. W tym przypadku NIE ŁĄCZ SIĘ Z INTERNETEM podczas dostępu do Portfela Offline, aby zapobiec jakimkolwiek wektorom ataku na Twoje Bitcoiny.**
+
+- **2- Możesz użyć innego pendrive'a USB, postępując tak samo jak powyżej, a następnie przejdź do kolejnych kroków, aby stworzyć swój Portfel Online na nowym pendrive'ie USB. Pomaga to zapobiec ludzkim błędom polegającym na dostępie do Twojego Portfela Offline podczas połączenia z internetem.**
 
 54. Teraz przejdź do **Electrum Bitcoin Wallet** i wybierz **Information**.
 
