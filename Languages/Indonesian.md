@@ -1,3 +1,5 @@
+# Sangat penting untuk selalu memperbarui versi TailsOS Anda untuk menghindari serangan berbahaya yang dapat mencuri Bitcoin Anda! Jika Anda menggunakan versi TailsOS yang sudah usang, ingatlah untuk TIDAK PERNAH terhubung ke internet saat mengakses dompet offline Anda! Gunakan USB drive kedua untuk membuat dompet online Anda, atau gunakan cara lain untuk memiliki dompet online di Android atau iOS, dan gunakan metode airgap untuk menandatangani transaksi Anda melalui QR Code. Saya tidak bertanggung jawab atas pencurian Bitcoin Anda jika Anda melanggar aturan keamanan apa pun, termasuk mengabaikan peringatan ini.
+
 **Tutorial ini diterjemahkan dari bahasa Inggris ke bahasa Indonesia menggunakan ChatGPT. Mungkin ada beberapa kesalahan terjemahan, tapi saya harap masih bisa dimengerti oleh komunitas penutur bahasa Indonesia!**
 
 **Tutorial dalam Bahasa Indonesia: Membuat Dompet Dingin Bitcoin Menggunakan Tails OS dan Penyimpanan Persisten**
