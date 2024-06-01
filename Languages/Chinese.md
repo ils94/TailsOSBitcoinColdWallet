@@ -40,7 +40,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. 创建一个强密码来加密您的Tails OS安装。按下**Create Persistent Storage**按钮。
+10. 创建一个强密码来加密您的 Tails OS 安装。点击 **Create Persistent Storage** 按钮。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
