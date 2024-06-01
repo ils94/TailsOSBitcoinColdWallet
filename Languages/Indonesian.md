@@ -58,11 +58,11 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Restart Tails OS dan masukkan kata sandi Anda. Kemudian, klik tombol **Unlock Encryption** untuk membuka kunci Penyimpanan Persisten Tails Anda.
+14. Restart Tails OS dan masukkan kata sandi Anda. Kemudian, klik tombol **Unlock Encryption** untuk membuka **Tails Persistent Storage** Anda.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. Setelah Penyimpanan Persisten terbuka, klik tombol **Start Tails**.
+15. Setelah **Persistent Storage** terbuka, klik tombol **Start Tails**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. Untuk menyimpan **signature.txt.asc**, lakukan hal yang sama seperti untuk GPG Public Key: klik kanan dan pilih **Save Link As...**
+27. Untuk menyimpan **signature.txt.asc**, lakukan hal yang sama seperti untuk **GPG Public Key** dan klik kanan padanya lalu pilih **Save Link As...**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -231,6 +231,12 @@ Ketik:
 53. Jika kedua alamat pertama cocok (dan yang kedua, dan yang ketiga, dan seterusnya), itu berarti dompet Anda berhasil diimpor ke **Electrum Bitcoin Wallet**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**Ini adalah bagian di mana kita membuat Dompet Online kita, dan Anda memiliki dua opsi:**
+
+- **1- Anda dapat membuat Dompet Online dalam instalasi Tails OS yang sama yang berisi Dompet Offline Anda. Dalam hal ini, Anda sebaiknya TIDAK MENGHUBUNGKAN KE INTERNET saat mengakses Dompet Offline untuk mencegah vektor serangan pada Bitcoin Anda.**
+
+- **2- Anda dapat menggunakan USB stick lain, ikuti proses yang sama seperti di atas, dan kemudian ikuti langkah-langkah berikutnya untuk membuat Dompet Online pada USB stick yang baru. Ini membantu mencegah kesalahan manusia saat mengakses Dompet Offline Anda saat terhubung ke internet.**
 
 54. Sekarang buka **Electrum Bitcoin Wallet** dan buka **Information**.
 
