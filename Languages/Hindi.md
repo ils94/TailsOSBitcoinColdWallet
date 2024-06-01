@@ -40,7 +40,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. अपने Tails OS स्थापना को एन्क्रिप्ट करने के लिए एक मजबूत पासवर्ड बनाएं। **Create Persistent Storage** बटन दबाएं।
+10. अपने Tails OS स्थापना को एन्क्रिप्ट करने के लिए एक मजबूत पासवर्ड बनाएं। **Create Persistent Storage** बटन पर क्लिक करें।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
