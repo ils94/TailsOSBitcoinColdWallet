@@ -206,7 +206,7 @@ Type:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. Choose a strong password to encrypt your Offline wallet. Hit **Next**.
+48. Choose a strong password to encrypt your **Offline** wallet. Hit **Next**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
