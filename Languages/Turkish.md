@@ -32,7 +32,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
-8. **Applications**'a gidin ve **Persistent Storage**'i arayın (Favoriler sekmesinde olmalıdır).
+8. **Applications**'a gidin ve **Persistent Storage**'i arayın (**Favorites** sekmesinde olmalıdır).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/07.png?raw=true)
 
