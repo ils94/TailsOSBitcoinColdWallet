@@ -38,7 +38,7 @@ Neste tutorial, usarei o Windows 10. Você também precisará de um pen drive co
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Crie uma senha forte para criptografar sua instalação do Tails OS.
+10. Crie uma senha forte para criptografar sua instalação do Tails OS. Clique no botão **Create Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
