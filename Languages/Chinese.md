@@ -1,8 +1,8 @@
-# 很重要的是保持您的Tails OS版本更新，以避免任何可能窃取您比特币的恶意攻击！如果您使用的是过时版本的Tails OS，请记住在访问您的离线钱包时绝对不要连接到互联网！使用第二个USB驱动器创建您的在线钱包，或使用其他方法在Android或iOS上拥有在线钱包，并使用通过QR码签署您的交易的方法。如果您违反任何安全规则，包括忽视此警告，我将不承担任何关于您比特币被盗的责任。
+# 很重要的是保持您的Tails OS版本更新，以避免任何可能窃取您比特币的恶意攻击！如果您使用的是过时版本的TailsOS，请记住在访问您的离线钱包时绝对不要连接到互联网！使用第二个USB驱动器创建您的在线钱包，或使用其他方法在Android或iOS上拥有在线钱包，并使用通过QR码签署您的交易的方法。如果您违反任何安全规则，包括忽视此警告，我将不承担任何关于您比特币被盗的责任。
 
 **这篇教程是使用ChatGPT从英语翻译成中文的。可能会有一些翻译错误，但我希望它对讲中文的社区来说仍然有意义！**
 
-**中文教程：使用Tails OS和持久存储创建比特币冷钱包**
+**中文教程：使用TailsOS和持久存储创建比特币冷钱包**
 
 在本教程中，我将使用Windows 10。你还需要一个至少8GB空间的USB棒。
 
@@ -30,7 +30,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. 在Tails中，点击 **Start** 按钮启动Tails OS。
+7. 在Tails中，点击 **Start** 按钮启动 **TailsOS**。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
@@ -42,7 +42,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. 创建一个强密码来加密您的 Tails OS 安装。点击 **Create Persistent Storage** 按钮。
+10. 创建一个强密码来加密您的 **TailsOS** 安装。点击 **Create Persistent Storage** 按钮。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. 重启 Tails OS 并输入你的密码。然后，点击 **Unlock Encryption** 按钮来解锁你的 **Tails Persistent Storage**。
+14. 重启 **TailsOS** 并输入你的密码。然后，点击 **Unlock Encryption** 按钮来解锁你的 **Tails Persistent Storage**。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -70,7 +70,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. 选择 **Connect to Tor automatically**。
+17. 选择 **Connect to Tor automatically** 并单击 **Connect to Tor** 按钮。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -98,7 +98,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. 现在，访问Ian Coleman's GitHub页面，通过这个链接：https://github.com/iancoleman/bip39 并进入Releases。你可以通过这个链接访问Releases：https://github.com/iancoleman/bip39/releases
+24. 现在，访问 **Ian Coleman GitHub** 页面，通过这个链接：https://github.com/iancoleman/bip39 并进入Releases。你可以通过这个链接访问Releases：https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -122,7 +122,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. 现在，断开Tails OS的互联网连接。我们现在要创建钱包。听起来很偏执，但还是安全点吧，好吗？
+30. 现在，断开 **TailsOS** 的互联网连接。我们现在要创建钱包。听起来很偏执，但还是安全点吧，好吗？
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -145,7 +145,7 @@
 - gpg --verify signature.txt.asc
 - 按Enter
 
-33. 检查是否显示 **Good signature** 来自Ian。如果显示为好，那么这意味着我们下载的所有文件都是合法的。
+33. 检查是否显示**Good signature from Ian Coleman <ian@iancoleman.io>**。如果显示为好，那么意味着我们下载的所有文件都是合法的。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -156,7 +156,7 @@
 - sha256sum bip39-standalone.html
 - 按Enter
 
-35. 检查终端中的哈希值和Ian的GitHub上的哈希值是否匹配。如果匹配，那么 **bip39-standalone.html** 文件也是合法的。
+35. 请检查终端中的哈希值和 **Ian Coleman GitHub** 上的哈希值。如果它们匹配，则 **bip39-standalone.html** 文件也是合法的。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
@@ -234,7 +234,7 @@
 
 **这是我们创建在线钱包的部分，你有两个选择：**
 
-- **1- 你可以在包含离线钱包的同一个 Tails OS 安装中创建在线钱包。在这种情况下，访问离线钱包时不要连接到互联网，以防止任何对比特币的攻击向量。**
+- **1- 你可以在包含离线钱包的同一个 TailsOS 安装中创建在线钱包。在这种情况下，访问离线钱包时不要连接到互联网，以防止任何对比特币的攻击向量。**
 
 - **2- 你可以使用另一个 USB 记忆棒，按照上面的相同步骤进行操作，然后按照接下来的步骤在新的 USB 记忆棒上创建在线钱包。这有助于防止在连接到互联网时访问离线钱包的人为错误。**
 
@@ -242,7 +242,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/51.png?raw=true)
 
-55. 复制你的 **Master Public Key**（不要与任何人分享这个密钥。如果有人获取你的主公钥，他们将能够看到你的地址和拥有多少比特币）。
+55. 复制您的 **Master Public Key**（不要与任何人分享此密钥。如果有人获取了您的 **Master Public Key**，他们将能够查看您的地址和您拥有的比特币数量）。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
