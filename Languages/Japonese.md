@@ -208,7 +208,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. 選択した**Offline**ウォレットを暗号化するための強力なパスワードを選択してください。**Next**を押してください。
+48. 強力なパスワードを選択して、あなたの**Offline**ウォレットを暗号化してください。**Next**をクリックしてください。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
