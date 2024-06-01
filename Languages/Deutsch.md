@@ -208,7 +208,7 @@ Tippen Sie:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. Wählen Sie ein starkes Passwort, um Ihr Offline-Wallet zu verschlüsseln. Klicken Sie auf **Next**.
+48. Wählen Sie ein starkes Passwort, um Ihre **Offline**-Brieftasche zu verschlüsseln. Klicken Sie auf **Next**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
