@@ -1,6 +1,6 @@
-# It is very important to keep your Tails OS version updated to avoid any kind of malicious attack that could steal your Bitcoins! If you are using an outdated version of Tails OS, remember to NEVER connect to the internet when accessing your offline wallet! Use a second USB drive to create your online wallet, or use other means to have an online wallet on Android or iOS, and use methods to sign your transactions by QR Code. I am not responsible for any theft of your Bitcoins if you break any security rules, including ignoring this warning.
+# It is very important to keep your TailsOS version updated to avoid any kind of malicious attack that could steal your Bitcoins! If you are using an outdated version of TailsOS, remember to NEVER connect to the internet when accessing your offline wallet! Use a second USB drive to create your online wallet, or use other means to have an online wallet on Android or iOS, and use methods to sign your transactions by QR Code. I am not responsible for any theft of your Bitcoins if you break any security rules, including ignoring this warning.
 
-**English Tutorial: Creating a Bitcoin Cold Wallet Using Tails OS and Persistent Storage**
+**English Tutorial: Creating a Bitcoin Cold Wallet Using TailsOS and Persistent Storage**
 
 In this tutorial, I will be using Windows 10. You will also need a USB stick with at least 8GB of space.
 
@@ -28,7 +28,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. In Tails, click the **Start** button to initiate Tails OS.
+7. In **TailsOS**, click the **Start** button to initiate **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
@@ -40,7 +40,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Create a strong password to encrypt your Tails OS installation. Click the **Create Persistent Storage** button.
+10. Create a strong password to encrypt your **TailsOS** installation. Click the **Create Persistent Storage** button.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
@@ -56,7 +56,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Restart Tails OS and enter your password. Then, click the **Unlock Encryption** button to unlock your **Tails Persistent Storage**.
+14. Restart **TailsOS** and enter your password. Then, click the **Unlock Encryption** button to unlock your **Tails Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -120,7 +120,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. Now, disconnect Tails OS from the internet. We are going to create our wallet now. It sounds too paranoid, but let's be safe, okay?
+30. Now, disconnect **TailsOS** from the internet. We are going to create our wallet now. It sounds too paranoid, but let's be safe, okay?
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -232,7 +232,7 @@ Type:
 
 **This is the part where we create our Online Wallet, and you have two options:**
 
-- **1- You can create the Online Wallet within the same installation of Tails OS that contains your Offline Wallet. In this case, you should NOT CONNECT TO THE INTERNET when accessing the Offline Wallet to prevent any attack vectors on your Bitcoins.**
+- **1- You can create the Online Wallet within the same installation of TailsOS that contains your Offline Wallet. In this case, you should NOT CONNECT TO THE INTERNET when accessing the Offline Wallet to prevent any attack vectors on your Bitcoins.**
 
 - **2- You can use another USB stick, follow the same process as above, and then follow the next steps to create your Online Wallet on the new USB stick. This helps prevent human error of accessing your Offline Wallet while connected to the internet.**
 
