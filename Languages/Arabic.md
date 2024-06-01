@@ -40,7 +40,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. قم بإنشاء كلمة مرور قوية لتشفير تثبيت Tails OS.
+10. أنشئ كلمة مرور قوية لتشفير تثبيت Tails OS الخاص بك. اضغط على زر **Create Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
