@@ -40,7 +40,7 @@ W tym tutorialu będę używał Windows 10. Będziesz również potrzebował pen
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Stwórz silne hasło, aby zaszyfrować instalację Tails OS.
+10. Utwórz silne hasło, aby zaszyfrować instalację systemu Tails OS. Naciśnij przycisk **Create Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
