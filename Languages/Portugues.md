@@ -30,7 +30,7 @@ Neste tutorial, usarei o Windows 10. Você também precisará de um pen drive co
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
-8. Vá para **Applications** e procure por **Persistent Storage** (deve estar na aba Favoritos).
+8. Vá para **Applications** e procure por **Persistent Storage** (deve estar na aba **Favorites**).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/07.png?raw=true)
 
