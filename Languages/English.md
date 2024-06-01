@@ -240,7 +240,7 @@ Type:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/51.png?raw=true)
 
-55. Copy your **Master Public Key** (do not share this key with anyone. If someone get access to your Master Public Key, they will be able to see your addresses and how much Bitcoin your own).
+55. Copy your **Master Public Key** (do not share this key with anyone. If someone get access to your **Master Public Key**, they will be able to see your addresses and how much Bitcoin your own).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
