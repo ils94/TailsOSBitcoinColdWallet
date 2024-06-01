@@ -1,3 +1,5 @@
+# It is very important to keep your version of TailsOS updated to avoid any type of malicious attack that could steal your Bitcoins! If you use an outdated version of TailsOS, remember to NEVER connect to the internet when accessing your offline wallet! Use a second USB drive to create your online wallet, or use other means to have an online wallet on Android or iOS, and use airgap methods to sign your transactions by QR Code. I am not responsible for any theft of your Bitcoins if you break any security rules, including ignoring this warning.
+
 **English Tutorial: Creating a Bitcoin Cold Wallet Using Tails OS and Persistent Storage**
 
 In this tutorial, I will be using Windows 10. You will also need a USB stick with at least 8GB of space.
