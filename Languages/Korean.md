@@ -58,11 +58,11 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Tails OS를 재부팅하고 암호를 입력합니다. 그런 다음 Tails 지속적인 저장소를 잠금 해제하려면 **Unlock Encryption** 버튼을 클릭합니다.
+14. Tails OS를 재시작하고 비밀번호를 입력하세요. 그런 다음 **암호 해제** 버튼을 클릭하여 **Tails Persistent Storage**를 해제합니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. 지속적인 저장소가 잠금 해제되면 **Start Tails** 버튼을 클릭합니다.
+15. **Persistent Storage**가 해제되면 **Tails 시작** 버튼을 클릭하세요.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. **signature.txt.asc** 를 저장하려면 GPG 공개 키와 마찬가지로 마우스 오른쪽 버튼을 클릭하고 **Save Link As...** 을 선택합니다.
+27. **signature.txt.asc**를 저장하려면 **GPG Public Key**와 같은 방법으로 마우스 오른쪽 버튼을 클릭하고 **링크 저장**을 선택하세요.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -227,6 +227,12 @@
 53. 첫 번째 주소부터 일치하는지 확인합니다 (두 번째, 세 번째 등도 동일). 이렇게 하면 월렛이 올바르게 **Electrum Bitcoin Wallet** 으로 가져온 것입니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**이 부분은 온라인 지갑을 만드는 부분이며, 두 가지 옵션이 있습니다:**
+
+- **1- 오프라인 지갑이 있는 Tails OS의 동일한 설치 내에서 온라인 지갑을 생성할 수 있습니다. 이 경우 오프라인 지갑에 액세스할 때 인터넷에 연결하지 않아야 합니다. 비트코인에 대한 어떤 공격 벡터도 방지할 수 있습니다.**
+
+- **2- 다른 USB 스틱을 사용하여 위와 같은 과정을 따라 새 USB 스틱에 온라인 지갑을 생성할 수 있습니다. 이렇게 하면 인터넷에 연결된 상태에서 오프라인 지갑에 액세스하는 인간적인 실수를 방지할 수 있습니다.**
 
 54. 이제 **Electrum Bitcoin Wallet** 로 이동하여 **Information** 로 이동합니다.
 
