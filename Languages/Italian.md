@@ -58,11 +58,11 @@ In questo tutorial, utilizzerò Windows 10. Avrai anche bisogno di una chiavetta
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Riavvia Tails OS ed inserisci la tua password. Poi, clicca il pulsante **Unlock Encryption** per sbloccare la Memoria Persistente di Tails.
+14. Riavvia Tails OS ed inserisci la tua password. Poi, clicca sul pulsante **Unlock Encryption** per sbloccare il tuo **Tails Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. Una volta sbloccata la Memoria Persistente, clicca il pulsante **Start Tails**.
+15. Una volta che il **Persistent Storage** è sbloccato, clicca sul pulsante **Start Tails**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@ In questo tutorial, utilizzerò Windows 10. Avrai anche bisogno di una chiavetta
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. Per salvare **signature.txt.asc**, fai lo stesso come per la chiave pubblica GPG: clicca con il tasto destro e seleziona **Save Link As...**.
+27. Per salvare **signature.txt.asc**, fai lo stesso come per la **GPG Public Key** e clicca con il tasto destro su di essa e seleziona **Save Link As...**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -231,6 +231,12 @@ Digita:
 53. Se entrambi i primi indirizzi corrispondono (e il secondo, e il terzo e così via), significa che il tuo portafoglio è stato importato correttamente in **Electrum Bitcoin Wallet**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**Questa è la parte in cui creiamo il nostro Online Wallet, e hai due opzioni:**
+
+- **1- Puoi creare l'Online Wallet all'interno della stessa installazione di Tails OS che contiene il tuo Offline Wallet. In questo caso, NON DOVRESTI CONNETTERTI A INTERNET quando accedi all'Offline Wallet per prevenire qualsiasi vettore di attacco sui tuoi Bitcoin.**
+
+- **2- Puoi usare un'altra chiavetta USB, seguire lo stesso processo di cui sopra e poi seguire i prossimi passaggi per creare il tuo Online Wallet sulla nuova chiavetta USB. Questo aiuta a prevenire l'errore umano di accedere al tuo Offline Wallet mentre sei connesso a internet.**
 
 54. Ora vai su **Electrum Bitcoin Wallet** e vai su **Information**.
 
