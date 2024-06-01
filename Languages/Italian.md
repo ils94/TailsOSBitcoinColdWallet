@@ -32,7 +32,7 @@ In questo tutorial, utilizzerò Windows 10. Avrai anche bisogno di una chiavetta
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
-8. Vai su **Applications** e cerca **Persistent Storage** (dovrebbe essere nella scheda Preferiti).
+8. Vai su **Applications** e cerca **Persistent Storage** (dovrebbe essere nella scheda **Favorites**).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/07.png?raw=true)
 
