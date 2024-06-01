@@ -32,7 +32,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
-8. **Applications** पर जाएं और **Persistent Storage** को खोजें (यह Favorites टैब में होना चाहिए)।
+8. **Applications** पर जाएं और **Persistent Storage** को खोजें (यह **Favorites** टैब में होना चाहिए)।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/07.png?raw=true)
 
