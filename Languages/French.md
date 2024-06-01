@@ -1,3 +1,5 @@
+# Il est très important de maintenir votre version de TailsOS à jour pour éviter tout type d'attaque malveillante qui pourrait voler vos Bitcoins! Si vous utilisez une version obsolète de TailsOS, rappelez-vous de ne JAMAIS vous connecter à Internet lorsque vous accédez à votre portefeuille hors ligne! Utilisez une deuxième clé USB pour créer votre portefeuille en ligne, ou utilisez d'autres moyens pour avoir un portefeuille en ligne sur Android ou iOS, et utilisez des méthodes d'airgap pour signer vos transactions par QR Code. Je ne suis pas responsable de tout vol de vos Bitcoins si vous enfreignez des règles de sécurité, y compris en ignorant cet avertissement.
+
 **Ce tutoriel a été traduit de l'anglais au français en utilisant ChatGPT. Il peut y avoir des erreurs de traduction, mais j'espère qu'il aura toujours du sens pour la communauté francophone !**
 
 **Tutoriel en Français : Créer un Portefeuille Bitcoin Froid en Utilisant Tails OS et un Stockage Persistant**
