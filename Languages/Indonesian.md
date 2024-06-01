@@ -40,7 +40,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Buatlah kata sandi yang kuat untuk mengenkripsi instalasi Tails OS Anda. Tekan tombol **Create Persistent Storage**.
+10. Buatlah kata sandi yang kuat untuk mengenkripsi instalasi Tails OS Anda. Klik tombol **Create Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
