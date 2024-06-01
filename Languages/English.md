@@ -68,7 +68,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. Select **Connect to Tor automatically**.
+17. Select **Connect to Tor automatically** and click the **Connect to Tor** button.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -96,7 +96,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. Now, go to Ian Coleman's GitHub page at this link: https://github.com/iancoleman/bip39 and go to Releases. You can access releases from this link: https://github.com/iancoleman/bip39/releases
+24. Now, go to **Ian Coleman's GitHub** page at this link: https://github.com/iancoleman/bip39 and go to Releases. You can access releases from this link: https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -143,7 +143,7 @@ Type:
 - gpg --verify signature.txt.asc
 - Press Enter
 
-33. Check if it says **Good signature** from Ian. If it says it's good, then it means that all files we downloaded are legit.
+33. Check if it says **Good signature from Ian Coleman <ian@iancoleman.io>**. If it says it's good, then it means that all files we downloaded are legit.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -154,7 +154,7 @@ Type:
 - sha256sum bip39-standalone.html
 - Press Enter
 
-35. Check both the hash in the Terminal and the hash on Ian's GitHub. If they match, then the **bip39-standalone.html** file is also legit.
+35. Check both the hash in the Terminal and the hash on **Ian Coleman GitHub**. If they match, then the **bip39-standalone.html** file is also legit.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
