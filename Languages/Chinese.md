@@ -58,11 +58,11 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. 重启Tails OS并输入你的密码。然后，点击 **Unlock Encryption** 按钮解锁你的Tails持久存储。
+14. 重启 Tails OS 并输入你的密码。然后，点击 **Unlock Encryption** 按钮来解锁你的 **Tails Persistent Storage**。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. 一旦持久存储解锁，点击 **Start Tails** 按钮。
+15. 一旦 **Persistent Storage** 解锁，点击 **Start Tails** 按钮。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -110,7 +110,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. 要保存 **signature.txt.asc**，和GPG公共密钥一样操作：右键点击并选择 **Save Link As...**。
+27. 要保存 **signature.txt.asc**，按照保存 **GPG Public Key** 的相同方法，右键点击它并选择 **Save Link As...**。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -231,6 +231,12 @@
 53. 如果第一个地址匹配（以及第二个、第三个等），则表示你的钱包已正确导入到 **Electrum Bitcoin Wallet** 中。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+**这是我们创建在线钱包的部分，你有两个选择：**
+
+- **1- 你可以在包含离线钱包的同一个 Tails OS 安装中创建在线钱包。在这种情况下，访问离线钱包时不要连接到互联网，以防止任何对比特币的攻击向量。**
+
+- **2- 你可以使用另一个 USB 记忆棒，按照上面的相同步骤进行操作，然后按照接下来的步骤在新的 USB 记忆棒上创建在线钱包。这有助于防止在连接到互联网时访问离线钱包的人为错误。**
 
 54. 现在，进入 **Electrum Bitcoin Wallet** 并选择 **Information**。
 
