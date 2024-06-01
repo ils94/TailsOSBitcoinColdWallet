@@ -207,7 +207,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. اختر كلمة مرور قوية لتشفير محفظتك غير المتصلة. اضغط على **Next**.
+48. اختر كلمة مرور قوية لتشفير محفظتك **Offline**. اضغط على التالي.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
