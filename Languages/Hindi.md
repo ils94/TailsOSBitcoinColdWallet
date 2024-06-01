@@ -208,7 +208,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. अपने Offline वॉलेट को एन्क्रिप्ट करने के लिए एक मजबूत पासवर्ड चुनें। **Next** दबाएं।
+48. अपने **Offline** वॉलेट को एन्क्रिप्ट करने के लिए एक मजबूत पासवर्ड चुनें। **Next** दबाएं।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
