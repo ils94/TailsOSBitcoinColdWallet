@@ -8,11 +8,11 @@ In diesem Tutorial verwende ich Windows 10. Sie benötigen auch einen USB-Stick 
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. Nach dem Herunterladen des USB-Images überprüfen Sie den Download, indem Sie auf die Download-Seite gehen und Ihr heruntergeladenes Image hochladen, indem Sie auf die Schaltfläche klicken, die **Select your download to verify...** sagt. Wenn die Überprüfung erfolgreich ist, können Sie fortfahren. Andernfalls müssen Sie das Image erneut herunterladen. Laden Sie dann balenaEtcher von diesem Link herunter: https://tails.net/etcher/balenaEtcher-portable.exe
+2. Nach dem Herunterladen des USB-Images überprüfen Sie den Download, indem Sie auf die Download-Seite gehen und Ihr heruntergeladenes Image hochladen, indem Sie auf die Schaltfläche klicken, die **Select your download to verify...** sagt. Wenn die Überprüfung erfolgreich ist, können Sie fortfahren. Andernfalls müssen Sie das Image erneut herunterladen. Laden Sie dann **balenaEtcher** von diesem Link herunter: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
-3. Stecken Sie Ihren USB-Stick ein und starten Sie balenaEtcher.
+3. Stecken Sie Ihren USB-Stick ein und starten Sie **balenaEtcher**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
@@ -24,7 +24,7 @@ In diesem Tutorial verwende ich Windows 10. Sie benötigen auch einen USB-Stick 
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/04.png?raw=true)
 
-6. Sobald der Vorgang abgeschlossen ist, schließen Sie balenaEtcher und starten Sie von dem USB-Stick.
+6. Sobald der Vorgang abgeschlossen ist, schließen Sie **balenaEtcher** und starten Sie von dem USB-Stick.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
