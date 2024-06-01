@@ -40,7 +40,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Tails OS kurulumunuzu şifrelemek için güçlü bir parola oluşturun.
+10. Tails OS kurulumunuzu şifrelemek için güçlü bir şifre oluşturun. **Create Persistent Storage** düğmesine tıklayın.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
