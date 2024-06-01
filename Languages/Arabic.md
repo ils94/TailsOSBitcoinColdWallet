@@ -57,11 +57,11 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. أعد تشغيل Tails OS وأدخل كلمة المرور الخاصة بك. ثم انقر على زر **Unlock Encryption** لفتح تخزين Tails Persistent.
+14. أعد تشغيل نظام التشغيل Tails وأدخل كلمة المرور الخاصة بك. ثم، انقر فوق زر **Unlock Encryption** لفتح **Tails Persistent Storage** الخاص بك.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
-15. بمجرد فتح التخزين المستمر، انقر على زر **Start Tails**.
+15. بمجرد فتح **Persistent Storage**، انقر فوق زر **Start Tails**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/14.png?raw=true)
 
@@ -109,7 +109,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/25.png?raw=true)
 
-27. لحفظ **signature.txt.asc**، افعل نفس الشيء كما هو الحال بالنسبة لـ GPG Public Key: انقر بزر الماوس الأيمن عليه واختر **Save Link As...**
+27. لحفظ **signature.txt.asc**، افعل الشيء نفسه كما هو الحال مع **GPG Public Key** وانقر بزر الماوس الأيمن عليها واختر **Save Link As...**
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/26.png?raw=true)
 
@@ -230,6 +230,12 @@
 53. إذا تطابقت العناوين الأولى (والثانية، والثالثة وهكذا)، فهذا يعني أن محفظتك قد تم استيرادها بشكل صحيح إلى **Electrum Bitcoin Wallet**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
+
+ه**ذا هو الجزء الذي نقوم فيه بإنشاء محفظتنا الإلكترونية على الإنترنت، ولديك خياران:**
+
+- **1- يمكنك إنشاء محفظة الإنترنت داخل نفس تثبيت نظام التشغيل Tails الذي يحتوي على محفظتك الغير متصلة بالإنترنت. في هذه الحالة، يجب ألا تقوم بالاتصال بالإنترنت عند الوصول إلى المحفظة غير المتصلة بالإنترنت لمنع أي متجهات هجوم على عملتك البيتكوين.**
+
+- **2- يمكنك استخدام قرص USB آخر، واتباع نفس العملية السابقة، ثم اتباع الخطوات التالية لإنشاء محفظتك الإلكترونية على القرص USB الجديد. هذا يساعد في منع الأخطاء البشرية عند الوصول إلى المحفظة الغير متصلة بالإنترنت أثناء الاتصال بالإنترنت.**
 
 54. الآن اذهب إلى **Electrum Bitcoin Wallet** وانتقل إلى **Information**.
 
