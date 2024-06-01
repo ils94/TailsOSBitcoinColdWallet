@@ -98,7 +98,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. الآن، اذهب إلى صفحة **GitHub لـ Ian Coleman** على هذا الرابط: https://github.com/iancoleman/bip39 وانتقل إلى الإصدارات. يمكنك الوصول إلى الإصدارات من هذا الرابط: https://github.com/iancoleman/bip39/releases
+24. الآن، اذهب إلى صفحة **Ian Coleman GitHub** على هذا الرابط: https://github.com/iancoleman/bip39 وانتقل إلى الإصدارات. يمكنك الوصول إلى الإصدارات من هذا الرابط: https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
