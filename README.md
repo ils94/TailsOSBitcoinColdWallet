@@ -11,3 +11,4 @@
 # Tutoriel en Français [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/French.md)
 # Tutorial in Italiano [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Italian.md)
 # Tutorial dalam Bahasa Indonesia [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Indonesian.md)
+# Türkçe Kılavuz [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Turkish.md)
