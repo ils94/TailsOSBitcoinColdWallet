@@ -40,7 +40,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Tails OS 설치를 암호화하는 강력한 암호를 생성하세요. **Create Persistent Storage** 버튼을 누르세요.
+10. Tails OS 설치를 암호화하기 위한 강력한 비밀번호를 만드세요. **Create Persistent Storage** 버튼을 클릭하세요.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
