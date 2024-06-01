@@ -1,8 +1,8 @@
-# من المهم جدًا تحديث نسخة نظام التشغيل Tails الخاصة بك لتجنب أي نوع من الهجمات الضارة التي قد تسرق عملات البيتكوين الخاصة بك! إذا كنت تستخدم نسخة قديمة من نظام التشغيل Tails، تذكر أن لا تتصل بالإنترنت أبدًا عند الوصول إلى محفظتك الغير متصلة بالإنترنت! استخدم قرصًا USB ثانيًا لإنشاء محفظتك على الإنترنت، أو استخدم وسائل أخرى للحصول على محفظة على الإنترنت على نظام التشغيل Android أو iOS، واستخدم طرقًا لتوقيع معاملاتك عبر رمز الاستجابة السريعة. أنا غير مسؤول عن أي سرقة لعملات البيتكوين الخاصة بك إذا كنت تنتهك أي قواعد أمان، بما في ذلك تجاهل هذا التحذير.
+# من المهم جدًا أن تحافظ على تحديث إصدار TailsOS الخاص بك لتجنب أي نوع من الهجمات الخبيثة التي يمكن أن تسرق عملات البيتكوين الخاصة بك! إذا كنت تستخدم إصدارًا قديمًا من TailsOS، تذكر أن لا تتصل أبدًا بالإنترنت عند الوصول إلى محفظتك الغير متصلة بالإنترنت! استخدم محرك أقراص USB ثاني لإنشاء محفظتك الإلكترونية، أو استخدم وسائل أخرى للحصول على محفظة إلكترونية على نظام التشغيل Android أو iOS، واستخدم الطرق لتوقيع معاملاتك عبر رمز الاستجابة السريعة (QR Code). أنا غير مسؤول عن أي سرقة لعملات البيتكوين الخاصة بك إذا كسرت أي قواعد أمنية، بما في ذلك تجاهل هذا التحذير.
 
 **تم ترجمة هذا الدرس من الإنجليزية إلى العربية باستخدام ChatGPT. قد تكون هناك بعض الأخطاء في الترجمة، لكنني آمل أن يكون مفهوماً للمجتمع الناطق بالعربية!**
 
-**دروس باللغة العربية: إنشاء محفظة باردة للبيتكوين باستخدام نظام Tails والتخزين الدائم**
+**دليل عربي: إنشاء محفظة بيتكوين باردة باستخدام TailsOS وتخزين دائم**
 
 في هذا الدليل، سأستخدم نظام التشغيل Windows 10. ستحتاج أيضًا إلى محرك USB بسعة لا تقل عن 8 جيجابايت.
 
@@ -30,7 +30,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. في Tails، انقر على زر **Start** لبدء Tails OS.
+7. في Tails، انقر على زر **Start** لبدء **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
@@ -42,7 +42,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. أنشئ كلمة مرور قوية لتشفير تثبيت Tails OS الخاص بك. انقر فوق زر **Create Persistent Storage**.
+10. أنشئ كلمة مرور قوية لتشفير تثبيت **TailsOS** الخاص بك. انقر فوق زر **Create Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. أعد تشغيل نظام التشغيل Tails وأدخل كلمة المرور الخاصة بك. ثم، انقر فوق زر **Unlock Encryption** لفتح **Tails Persistent Storage** الخاص بك.
+14. أعد تشغيل **TailsOS** وأدخل كلمة المرور الخاصة بك. ثم، انقر فوق زر **Unlock Encryption** لفتح **Persistent Storage** الخاص بك.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -70,7 +70,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. اختر **Connect to Tor automatically**.
+17. اختر **Connect to Tor automatically** وانقر على زر **Connect to Tor**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -98,7 +98,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. الآن، انتقل إلى صفحة GitHub الخاصة بـ Ian Coleman على هذا الرابط: https://github.com/iancoleman/bip39 وانتقل إلى الإصدارات. يمكنك الوصول إلى الإصدارات من هذا الرابط: https://github.com/iancoleman/bip39/releases
+24. الآن، اذهب إلى صفحة **GitHub لـ Ian Coleman** على هذا الرابط: https://github.com/iancoleman/bip39 وانتقل إلى الإصدارات. يمكنك الوصول إلى الإصدارات من هذا الرابط: https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -122,7 +122,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. الآن، افصل Tails OS عن الإنترنت. نحن على وشك إنشاء محفظتنا الآن. يبدو الأمر مفرط في الحذر، لكن لنكن آمنين، حسنًا؟
+30. الآن، افصل **TailsOS** عن الإنترنت. نحن على وشك إنشاء محفظتنا الآن. يبدو الأمر مفرط في الحذر، لكن لنكن آمنين، حسنًا؟
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -145,7 +145,7 @@
 - gpg --verify signature.txt.asc
 - اضغط Enter
 
-33. تحقق مما إذا كانت تقول **Good signature** من Ian. إذا قالت إنها جيدة، فهذا يعني أن جميع الملفات التي قمنا بتنزيلها شرعية.
+33. تحقق مما إذا كانت تقول **Good signature from Ian Coleman <ian@iancoleman.io>**. إذا كانت تقول إنها جيدة، فهذا يعني أن جميع الملفات التي قمنا بتنزيلها شرعية.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -156,7 +156,7 @@
 - sha256sum bip39-standalone.html
 - اضغط Enter
 
-35. تحقق من كل من التجزئة في Terminal والتجزئة على GitHub الخاص بـ Ian. إذا تطابقت، فإن ملف **bip39-standalone.html** شرعي أيضًا.
+35. تحقق من الهاش في الطرفية والهاش على **Ian Coleman GitHub**. إذا تطابقت، فإن ملف **bip39-standalone.html** أيضًا شرعي.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
@@ -234,7 +234,7 @@
 
 ه**ذا هو الجزء الذي نقوم فيه بإنشاء محفظتنا الإلكترونية على الإنترنت، ولديك خياران:**
 
-- **1- يمكنك إنشاء محفظة الإنترنت داخل نفس تثبيت نظام التشغيل Tails الذي يحتوي على محفظتك الغير متصلة بالإنترنت. في هذه الحالة، يجب ألا تقوم بالاتصال بالإنترنت عند الوصول إلى المحفظة غير المتصلة بالإنترنت لمنع أي متجهات هجوم على عملتك البيتكوين.**
+- **1-يمكنك إنشاء المحفظة الإلكترونية عبر الإنترنت ضمن نفس تثبيت TailsOS الذي يحتوي على محفظتك الغير متصلة بالإنترنت. في هذه الحالة، يجب عليك عدم الاتصال بالإنترنت عند الوصول إلى المحفظة الغير متصلة بالإنترنت لمنع أي سبل هجوم على Bitcoins الخاصة بك.**
 
 - **2- يمكنك استخدام قرص USB آخر، واتباع نفس العملية السابقة، ثم اتباع الخطوات التالية لإنشاء محفظتك الإلكترونية على القرص USB الجديد. هذا يساعد في منع الأخطاء البشرية عند الوصول إلى المحفظة الغير متصلة بالإنترنت أثناء الاتصال بالإنترنت.**
 
@@ -242,7 +242,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/51.png?raw=true)
 
-55. انسخ **Master Public Key** الخاص بك (لا تشارك هذا المفتاح مع أي شخص. إذا حصل شخص ما على مفتاحك العام الرئيسي، سيتمكن من رؤية عناوينك ومقدار Bitcoin التي تمتلكها).
+55. نسخ مفتاحك **Master Public Key** (لا تشارك هذا المفتاح مع أي شخص. إذا حصل شخص ما على الوصول إلى مفتاحك **Master Public Key**, سيكون بإمكانه رؤية عناوينك وكمية البيتكوين التي تمتلكها).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
