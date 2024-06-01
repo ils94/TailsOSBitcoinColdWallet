@@ -208,7 +208,7 @@ Tapez :
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/44.png?raw=true)
 
-48. Choisissez un mot de passe fort pour chiffrer votre portefeuille Offline. Cliquez sur **Next**.
+48. Choisissez un mot de passe fort pour chiffrer votre portefeuille **Offline**. Cliquez sur **Next**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/45.png?raw=true)
 
