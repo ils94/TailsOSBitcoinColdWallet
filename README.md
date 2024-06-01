@@ -1,5 +1,5 @@
 # Tutorial in English [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/English.md)
-# Tutorial em Português [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Português.md)
+# Tutorial em Português [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Portugues.md)
 # Tutorial en Español [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Español.md)
 # Руководство на русском [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Russian.md)
 # 한국어 튜토리얼 [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Korean.md)
