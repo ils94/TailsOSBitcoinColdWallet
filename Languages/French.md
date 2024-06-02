@@ -58,7 +58,7 @@ Dans ce tutoriel, j'utiliserai Windows 10. Vous aurez également besoin d'une cl
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Redémarrez **TailsOS** et entrez votre mot de passe. Ensuite, cliquez sur le bouton **Unlock Encryption** pour déverrouiller votre **Tails Persistent Storage**.
+14. Redémarrez **TailsOS** et entrez votre mot de passe. Ensuite, cliquez sur le bouton **Unlock Encryption** pour déverrouiller votre **Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
