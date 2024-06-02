@@ -1,4 +1,4 @@
-# Tails OSのバージョンを常に最新に保つことは非常に重要です。これにより、ビットコインを盗む可能性のある悪意のある攻撃を防ぐことができます！Tails OSの古いバージョンを使用している場合は、オフラインウォレットにアクセスする際にインターネットに接続しないように注意してください！オンラインウォレットを作成するために第2のUSBドライブを使用するか、またはAndroidやiOS上にオンラインウォレットを持つための他の手段を使用し、トランザクションに署名するための方法としてQRコードを使用してください。この警告を無視するなど、セキュリティルールを破った場合のビットコインの盗難については一切の責任を負いません。
+# TailsOSのバージョンを常に最新に保つことは非常に重要です。これにより、ビットコインを盗む可能性のある悪意のある攻撃を防ぐことができます！TailsOSの古いバージョンを使用している場合は、オフラインウォレットにアクセスする際にインターネットに接続しないように注意してください！オンラインウォレットを作成するために第2のUSBドライブを使用するか、またはAndroidやiOS上にオンラインウォレットを持つための他の手段を使用し、トランザクションに署名するための方法としてQRコードを使用してください。この警告を無視するなど、セキュリティルールを破った場合のビットコインの盗難については一切の責任を負いません。
 
 **このチュートリアルは、ChatGPTを使用して英語から日本語に翻訳されました。翻訳のエラーがあるかもしれませんが、日本語を話すコミュニティにとっても意味が通じることを願っています！**
 
@@ -30,7 +30,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. Tailsで、**Start** ボタンをクリックしてTails OSを起動します。
+7. **TailsOS** で、**Start** ボタンをクリックして **TailsOS** を起動します。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
@@ -42,7 +42,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Tails OSのインストールを暗号化するための強力なパスワードを作成してください。**Create Persistent Storage**ボタンをクリックしてください。
+10. **TailsOS** のインストールを暗号化するための強力なパスワードを作成してください。**Create Persistent Storage**ボタンをクリックしてください。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Tails OSを再起動し、パスワードを入力します。その後、**Unlock Encryption**ボタンをクリックして**Tails Persistent Storage**を解除します。
+14. **TailsOS** を再起動し、パスワードを入力します。その後、**Unlock Encryption**ボタンをクリックして**Tails Persistent Storage**を解除します。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -70,7 +70,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. **Connect to Tor automatically** を選択します。
+17. **Connect to Tor automatically**を選択し、**Connect to Tor**ボタンをクリックしてください。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -98,7 +98,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. 次に、Ian ColemanのGitHubページにこのリンクからアクセスします: https://github.com/iancoleman/bip39 。Releasesにアクセスします。このリンクからReleasesにアクセスできます: https://github.com/iancoleman/bip39/releases
+24. 今、このリンクから **Ian Coleman GitHub** ページにアクセスしてください：https://github.com/iancoleman/bip39 そして、Releases に移動してください。リリースにはこのリンクからアクセスできます：https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -122,7 +122,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. 次に、Tails OSをインターネットから切断します。これからウォレットを作成します。少しパラノイアに感じるかもしれませんが、安全のために行いましょう。
+30. 次に、**TailsOS** をインターネットから切断します。これからウォレットを作成します。少しパラノイアに感じるかもしれませんが、安全のために行いましょう。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -145,7 +145,7 @@
 - gpg --verify signature.txt.asc
 - Enterキーを押します
 
-33. Ianからの **Good signature** と表示されているか確認します。表示されている場合、ダウンロードしたすべてのファイルが正当であることを意味します。
+33. **Good signature from Ian Coleman <ian@iancoleman.io>** と表示されているか確認します。表示されている場合、ダウンロードしたすべてのファイルが正当であることを意味します。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -156,7 +156,7 @@
 - sha256sum bip39-standalone.html
 - Enterキーを押します
 
-35. ターミナル内のハッシュとIanのGitHubのハッシュを確認します。一致する場合、**bip39-standalone.html** ファイルも正当です。
+35. ターミナルでハッシュ値をチェックし、**Ian Coleman GitHub**上のハッシュ値も確認します。一致する場合、**bip39-standalone.html**ファイルも正規です。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
@@ -234,7 +234,7 @@
 
 **ここでは、オンラインウォレットを作成する部分です。2つのオプションがあります：**
 
-- **1- オフラインウォレットを含むTails OSの同じインストール内でオンラインウォレットを作成できます。この場合、オフラインウォレットにアクセスする際にはインターネットに接続しないでください。ビットコインへの攻撃ベクターを防ぐためです。**
+- **1- オフラインウォレットを含むTailsOSの同じインストール内でオンラインウォレットを作成できます。この場合、オフラインウォレットにアクセスする際にはインターネットに接続しないでください。ビットコインへの攻撃ベクターを防ぐためです。**
 
 - **2- 別のUSBスティックを使用し、上記と同じプロセスに従ってから、新しいUSBスティックでオンラインウォレットを作成するための次の手順に従います。これは、インターネットに接続しながらオフラインウォレットにアクセスする人為的なエラーを防ぐのに役立ちます。**
 
@@ -242,7 +242,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/51.png?raw=true)
 
-55. **Master Public Key** をコピーします（このキーを誰にも共有しないでください。誰かがMaster Public Keyにアクセスすると、アドレスと所有しているBitcoinの量を確認できます）。
+55. **Master Public Key** をコピーします（このキーを誰にも共有しないでください。誰かが**Master Public Key**にアクセスすると、アドレスと所有しているBitcoinの量を確認できます）。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
