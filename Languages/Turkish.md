@@ -6,7 +6,7 @@
 
 Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB bellek gerekecek.
 
-1. https://tails.net/install/download/index.pt.html adresine gidin ve USB İmajını indirin.
+1. Git, https://tails.net/install/download/index.en.html adresine gidin ve **USB image**'ı indirin.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
