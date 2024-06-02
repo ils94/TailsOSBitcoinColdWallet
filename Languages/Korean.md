@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. **TailsOS** 를 재시작하고 비밀번호를 입력하세요. 그런 다음 **Unlock Encryption** 버튼을 클릭하여 **Tails Persistent Storage**를 해제합니다.
+14. **TailsOS** 를 재시작하고 비밀번호를 입력하세요. 그런 다음 **Unlock Encryption** 버튼을 클릭하여 **Persistent Storage**를 해제합니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
