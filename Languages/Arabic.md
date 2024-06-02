@@ -10,7 +10,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. بعد تنزيل صورة USB، قم بالتحقق من التنزيل بالانتقال إلى صفحة التنزيل وتحميل الصورة التي تم تنزيلها بالنقر على الزر الذي يقول **Select your download to verify...**. إذا نجحت عملية التحقق، يمكنك المتابعة؛ وإلا، يجب عليك إعادة تنزيل الصورة. بعد ذلك، قم بتنزيل **balenaEtcher** من هذا الرابط: https://tails.net/etcher/balenaEtcher-portable.exe
+2. بعد تنزيل **USB image**، قم بالتحقق من التنزيل بالانتقال إلى صفحة التنزيل وتحميل الصورة التي تم تنزيلها بالنقر على الزر الذي يقول **Select your download to verify...**. إذا نجحت عملية التحقق، يمكنك المتابعة؛ وإلا، يجب عليك إعادة تنزيل الصورة. بعد ذلك، قم بتنزيل **balenaEtcher** من هذا الرابط: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
