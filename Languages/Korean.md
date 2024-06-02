@@ -6,7 +6,7 @@
 
 이 튜토리얼에서는 Windows 10을 사용할 것입니다. 또한 적어도 8GB의 용량을 갖춘 USB 스틱이 필요합니다.
 
-1. https://tails.net/install/download/index.en.html 에서 USB 이미지를 다운로드합니다.
+1. https://tails.net/install/download/index.en.html로 이동하여 **USB image**를 다운로드하세요.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
