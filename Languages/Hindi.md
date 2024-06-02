@@ -10,7 +10,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. USB इमेज डाउनलोड करने के बाद, डाउनलोड पेज पर जाकर और अपने डाउनलोड किए गए इमेज को अपलोड करके अपने डाउनलोड को सत्यापित करें। **Select your download to verify...** बटन पर क्लिक करें। यदि सत्यापन सफल है, तो आप आगे बढ़ सकते हैं; अन्यथा, आपको इमेज को पुनः डाउनलोड करना होगा। फिर, इस लिंक से **balenaEtcher** डाउनलोड करें: https://tails.net/etcher/balenaEtcher-portable.exe
+2. **USB image** डाउनलोड करने के बाद, डाउनलोड पेज पर जाकर और अपने डाउनलोड किए गए इमेज को अपलोड करके अपने डाउनलोड को सत्यापित करें। **Select your download to verify...** बटन पर क्लिक करें। यदि सत्यापन सफल है, तो आप आगे बढ़ सकते हैं; अन्यथा, आपको इमेज को पुनः डाउनलोड करना होगा। फिर, इस लिंक से **balenaEtcher** डाउनलोड करें: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
@@ -18,7 +18,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
-4. USB इमेज को चुनने के लिए **Flash from file** बटन पर क्लिक करें। आपकी USB स्टिक स्वचालित रूप से डिटेक्ट होनी चाहिए। यदि नहीं, तो सुनिश्चित करें कि आप सही USB स्टिक का चयन कर रहे हैं। फिर, **Flash!** बटन पर क्लिक करें।
+4. **USB image** को चुनने के लिए **Flash from file** बटन पर क्लिक करें। आपकी USB स्टिक स्वचालित रूप से डिटेक्ट होनी चाहिए। यदि नहीं, तो सुनिश्चित करें कि आप सही USB स्टिक का चयन कर रहे हैं। फिर, **Flash!** बटन पर क्लिक करें।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/03.png?raw=true)
 
