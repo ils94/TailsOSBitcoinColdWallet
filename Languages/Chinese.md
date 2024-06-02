@@ -30,7 +30,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. 在Tails中，点击 **Start** 按钮启动 **TailsOS**。
+7. 在 **TailsOS** 中，点击 **Start** 按钮启动 **TailsOS**。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
