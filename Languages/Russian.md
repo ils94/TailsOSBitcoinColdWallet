@@ -1,4 +1,4 @@
-# Очень важно обновлять версию вашей операционной системы Tails, чтобы избежать любых видов злонамеренных атак, которые могут похитить ваши биткойны! Если вы используете устаревшую версию Tails, помните, НИКОГДА не подключайтесь к интернету при доступе к вашему оффлайн-кошельку! Используйте второй USB-накопитель для создания онлайн-кошелька или используйте другие средства для создания онлайн-кошелька на Android или iOS, и используйте методы подписи ваших транзакций через QR-код. Я не несу ответственности за кражу ваших биткойнов, если вы нарушите любые правила безопасности, включая игнорирование этого предупреждения.
+# Это очень важно держать вашу версию TailsOS обновленной, чтобы избежать любого вида злонамеренной атаки, которая может похитить ваши биткоины! Если вы используете устаревшую версию TailsOS, помните, ЧТОБЫ НИКОГДА не подключаться к интернету при доступе к вашему оффлайн-кошельку! Используйте второй USB-накопитель для создания вашего онлайн-кошелька, или используйте другие средства для создания онлайн-кошелька на Android или iOS, и используйте методы подписи ваших транзакций по QR-коду. Я не несу ответственности за любые кражи ваших биткоинов, если вы нарушите какие-либо правила безопасности, включая игнорирование этого предупреждения.
 
 **Этот учебник был переведен с английского на русский с помощью ChatGPT. Возможно, есть некоторые ошибки перевода, но я надеюсь, что он все равно понятен русскоязычному сообществу!**
 
@@ -30,7 +30,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. В Tails нажмите кнопку **Start**, чтобы запустить Tails OS.
+7. В **TailsOS** нажмите кнопку **Start**, чтобы запустить **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
@@ -42,7 +42,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Создайте надежный пароль для шифрования установки Tails OS. Нажмите кнопку **Create Persistent Storage**.
+10. Создайте надежный пароль для шифрования установки **TailsOS**. Нажмите кнопку **Create Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Перезагрузите Tails OS и введите пароль. Затем нажмите кнопку **Unlock Encryption** для разблокировки **Tails Persistent Storage**.
+14. Перезагрузите **TailsOS** и введите пароль. Затем нажмите кнопку **Unlock Encryption** для разблокировки **Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -70,7 +70,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. Выберите **Connect to Tor automatically**.
+17. Выберите **Connect to Tor automatically** и нажмите кнопку **Connect to Tor**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -98,7 +98,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. Теперь перейдите на страницу GitHub Иэна Коулмана по этой ссылке: https://github.com/iancoleman/bip39 и перейдите к Releases. Вы можете получить доступ к релизам по этой ссылке: https://github.com/iancoleman/bip39/releases
+24. Перейдите на страницу **Ian Coleman GitHub** по этой ссылке: https://github.com/iancoleman/bip39 и перейдите в раздел Releases. Вы можете получить доступ к релизам по этой ссылке: https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -122,7 +122,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. Теперь отключите Tails OS от интернета. Мы собираемся создать наш кошелек. Кажется, это слишком параноидально, но давайте будем осторожными, хорошо?
+30. Теперь отключите **TailsOS** от интернета. Мы собираемся создать наш кошелек. Кажется, это слишком параноидально, но давайте будем осторожными, хорошо?
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -145,7 +145,7 @@
 - gpg --verify signature.txt.asc
 - Нажмите Enter
 
-33. Проверьте, указывает ли он **Good signature** от Иэна. Если он говорит, что все в порядке, то это означает, что все загруженные нами файлы подлинные.
+33. Проверьте, говорится ли **Good signature from Ian Coleman <ian@iancoleman.io>**. Если сказано, что это хорошо, то это означает, что все файлы, которые мы загрузили, подлинные.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -156,7 +156,7 @@
 - sha256sum bip39-standalone.html
 - Нажмите Enter
 
-35. Проверьте как хеш в терминале, так и хеш на GitHub Иэна. Если они совпадают, то файл **bip39-standalone.html** также подлинный.
+35. Проверьте как хэш в терминале, так и хэш на **Ian Coleman GitHub**. Если они совпадают, то файл **bip39-standalone.html** также подлинный.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
@@ -234,7 +234,7 @@
 
 **Это часть, где мы создаем наш онлайн-кошелек, и у вас есть два варианта:**
 
-- **1- Вы можете создать онлайн-кошелек в той же установке Tails OS, которая содержит ваш оффлайн-кошелек. В этом случае НЕ ПОДКЛЮЧАЙТЕСЬ К ИНТЕРНЕТУ при доступе к оффлайн-кошельку, чтобы предотвратить любые векторы атак на ваши биткойны.**
+- **1- Вы можете создать онлайн-кошелек в той же установке TailsOS, которая содержит ваш оффлайн-кошелек. В этом случае НЕ ПОДКЛЮЧАЙТЕСЬ К ИНТЕРНЕТУ при доступе к оффлайн-кошельку, чтобы предотвратить любые векторы атак на ваши биткойны.**
 
 - **2- Вы можете использовать другой USB-накопитель, следуйте тому же процессу, что и выше, а затем выполните следующие шаги для создания вашего онлайн-кошелька на новом USB-накопителе. Это помогает предотвратить человеческую ошибку при доступе к вашему оффлайн-кошельку при подключении к интернету.**
 
