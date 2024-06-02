@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. 重启 **TailsOS** 并输入你的密码。然后，点击 **Unlock Encryption** 按钮来解锁你的 **Tails Persistent Storage**。
+14. 重启 **TailsOS** 并输入你的密码。然后，点击 **Unlock Encryption** 按钮来解锁你的 **Persistent Storage**。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
