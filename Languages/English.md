@@ -4,7 +4,7 @@
 
 In this tutorial, I will be using Windows 10. You will also need a USB stick with at least 8GB of space.
 
-1. Go to https://tails.net/install/download/index.en.html and download the USB Image.
+1. Go to https://tails.net/install/download/index.en.html and download the **USB Image**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
