@@ -6,7 +6,7 @@
 
 В этом руководстве я буду использовать Windows 10. Вам также понадобится флеш-накопитель объемом не менее 8 ГБ.
 
-1. Перейдите на https://tails.net/install/download/index.en.html и загрузите образ USB.
+1. Перейдите по ссылке https://tails.net/install/download/index.en.html и загрузите **USB image**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
