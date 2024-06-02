@@ -1,4 +1,4 @@
-# Tails OS 버전을 최신으로 유지하는 것은 비트코인을 훔치는 악의적인 공격을 피하기 위해 매우 중요합니다! 만약 오래된 버전의 Tails OS를 사용 중이라면, 오프라인 지갑에 액세스할 때 절대 인터넷에 연결하지 말아야 합니다! 온라인 지갑을 만들기 위해 두 번째 USB 드라이브를 사용하거나, Android 또는 iOS에서 온라인 지갑을 사용하고 트랜잭션에 서명하기 위해 QR 코드를 사용하는 등 다른 방법을 사용하세요. 이 경고를 무시하는 등 보안 규칙을 어길 경우 비트코인이 훔쳐지는 일에 대해 책임지지 않습니다.
+# TailsOS 버전을 최신으로 유지하는 것은 비트코인을 훔치는 악의적인 공격을 피하기 위해 매우 중요합니다! 만약 오래된 버전의 TailsOS를 사용 중이라면, 오프라인 지갑에 액세스할 때 절대 인터넷에 연결하지 말아야 합니다! 온라인 지갑을 만들기 위해 두 번째 USB 드라이브를 사용하거나, Android 또는 iOS에서 온라인 지갑을 사용하고 트랜잭션에 서명하기 위해 QR 코드를 사용하는 등 다른 방법을 사용하세요. 이 경고를 무시하는 등 보안 규칙을 어길 경우 비트코인이 훔쳐지는 일에 대해 책임지지 않습니다.
 
 **이 튜토리얼은 ChatGPT를 사용하여 영어에서 한국어로 번역되었습니다. 번역 오류가 있을 수 있지만, 한국어를 사용하는 커뮤니티에게 여전히 의미가 있다고 생각합니다!**
 
@@ -30,7 +30,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. Tails에서 **Start** 버튼을 클릭하여 Tails OS를 시작합니다.
+7. **TailsOS** 에서 **Start** 버튼을 클릭하여 **TailsOS** 를 시작합니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
@@ -42,7 +42,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Tails OS 설치를 암호화하기 위한 강력한 비밀번호를 만드세요. **Create Persistent Storage** 버튼을 클릭하세요.
+10. **TailsOS** 설치를 암호화하기 위한 강력한 비밀번호를 만드세요. **Create Persistent Storage** 버튼을 클릭하세요.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Tails OS를 재시작하고 비밀번호를 입력하세요. 그런 다음 **Unlock Encryption** 버튼을 클릭하여 **Tails Persistent Storage**를 해제합니다.
+14. **TailsOS** 를 재시작하고 비밀번호를 입력하세요. 그런 다음 **Unlock Encryption** 버튼을 클릭하여 **Tails Persistent Storage**를 해제합니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -70,7 +70,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. **Connect to Tor automatically** 을 선택합니다.
+17. **Connect to Tor automatically**을 선택하고 **Connect to Tor** 버튼을 클릭하세요.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -98,7 +98,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. 이제 Ian Coleman의 GitHub 페이지인 https://github.com/iancoleman/bip39로 이동하고 릴리스로 이동합니다. 릴리스에는 https://github.com/iancoleman/bip39/releases 링크에서 액세스할 수 있습니다.
+24. 이제 **Ian Coleman GitHub** 페이지(https://github.com/iancoleman/bip39)로 이동하여 릴리스를 확인하세요. 릴리스에 접근하려면 이 링크(https://github.com/iancoleman/bip39/releases)를 사용할 수 있습니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -122,7 +122,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. 이제 Tails OS를 인터넷에서 연결 해제합니다. 이제 월렛을 만들어 보겠습니다. 너무 피곤한 소리일 수 있지만, 안전하게 하죠?
+30. 이제 **TailsOS** 를 인터넷에서 연결 해제합니다. 이제 월렛을 만들어 보겠습니다. 너무 피곤한 소리일 수 있지만, 안전하게 하죠?
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -143,7 +143,7 @@
 - gpg --verify signature.txt.asc
 - Enter 키 누름
 
-33. Ian의 **Good signature** 가 나오는지 확인합니다. 모두 좋다고 나오면 다운로드한 모든 파일이 정품이라는 뜻입니다.
+33. **Good signature from Ian Coleman <ian@iancoleman.io>** 이라고 적혀 있는지 확인하세요. 그게 적혀 있으면, 이는 우리가 다운로드한 모든 파일이 정품임을 의미합니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -152,7 +152,7 @@
 - sha256sum bip39-standalone.html
 - Enter 키 누름
 
-35. 터미널과 Ian의 GitHub에서의 해시를 모두 확인합니다. 일치하면 **bip39-standalone.html** 파일도 정품입니다.
+35. 터미널에서 해시를 확인하고 **Ian Coleman GitHub**에 있는 해시도 확인하십시오. 두 해시가 일치하면 **bip39-standalone.html** 파일도 정품입니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
@@ -230,7 +230,7 @@
 
 **이 부분은 온라인 지갑을 만드는 부분이며, 두 가지 옵션이 있습니다:**
 
-- **1- 오프라인 지갑이 있는 Tails OS의 동일한 설치 내에서 온라인 지갑을 생성할 수 있습니다. 이 경우 오프라인 지갑에 액세스할 때 인터넷에 연결하지 않아야 합니다. 비트코인에 대한 어떤 공격 벡터도 방지할 수 있습니다.**
+- **1- 오프라인 지갑이 있는 TailsOS의 동일한 설치 내에서 온라인 지갑을 생성할 수 있습니다. 이 경우 오프라인 지갑에 액세스할 때 인터넷에 연결하지 않아야 합니다. 비트코인에 대한 어떤 공격 벡터도 방지할 수 있습니다.**
 
 - **2- 다른 USB 스틱을 사용하여 위와 같은 과정을 따라 새 USB 스틱에 온라인 지갑을 생성할 수 있습니다. 이렇게 하면 인터넷에 연결된 상태에서 오프라인 지갑에 액세스하는 인간적인 실수를 방지할 수 있습니다.**
 
@@ -238,7 +238,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/51.png?raw=true)
 
-55. **Master Public Key** 를 복사합니다 (이 키를 다른 사람과 공유하지 마십시오. 누군가가 마스터 공개 키에 액세스하면 여러분의 주소와 소유한 비트코인 금액을 볼 수 있습니다).
+55. **Master Public Key**를 복사합니다 (이 키를 아무에게도 공유하지 마세요. 누군가가 **Master Public Key**에 접근하면, 그들은 당신의 주소와 소유한 비트코인의 양을 볼 수 있게 됩니다).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
