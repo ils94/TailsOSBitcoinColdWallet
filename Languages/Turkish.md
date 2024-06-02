@@ -30,7 +30,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. **TailsOS**'te, **TailsOS**'i başlatmak için **Start** düğmesine tıklayın.
+7. **TailsOS**'te, **TailsOS**'i başlatmak için **Start Tails** düğmesine tıklayın.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
