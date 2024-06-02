@@ -16,7 +16,7 @@ In this tutorial, I will be using Windows 10. You will also need a USB stick wit
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
-4. Select the USB image by clicking the **Flash from file** button. Your USB stick should be automatically detected. If not, ensure you are selecting the correct USB stick. Then, click the **Flash!** button.
+4. Select the **USB image** by clicking the **Flash from file** button. Your USB stick should be automatically detected. If not, ensure you are selecting the correct USB stick. Then, click the **Flash!** button.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/03.png?raw=true)
 
