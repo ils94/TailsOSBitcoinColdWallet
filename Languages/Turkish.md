@@ -10,7 +10,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. USB imajını indirdikten sonra, indirme sayfasına giderek indirilen imajı doğrulamak için **Select your download to verify...** düğmesine tıklayın ve indirdiğiniz imajı yükleyin. Doğrulama başarılı olursa, devam edebilirsiniz; aksi takdirde imajı yeniden indirmeniz gerekir. Daha sonra, balenaEtcher'ı bu bağlantıdan indirin: https://tails.net/etcher/balenaEtcher-portable.exe
+2. **USB image** indirdikten sonra, indirme sayfasına giderek indirilen imajı doğrulamak için **Select your download to verify...** düğmesine tıklayın ve indirdiğiniz imajı yükleyin. Doğrulama başarılı olursa, devam edebilirsiniz; aksi takdirde imajı yeniden indirmeniz gerekir. Daha sonra, balenaEtcher'ı bu bağlantıdan indirin: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
@@ -18,7 +18,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
-4. **Flash from file** düğmesine tıklayarak USB imajını seçin. USB belleğiniz otomatik olarak algılanmalıdır. Değilse, doğru USB belleğini seçtiğinizden emin olun. Ardından, **Flash!** düğmesine tıklayın.
+4. **Flash from file** düğmesine tıklayarak **USB image** seçin. USB belleğiniz otomatik olarak algılanmalıdır. Değilse, doğru USB belleğini seçtiğinizden emin olun. Ardından, **Flash!** düğmesine tıklayın.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/03.png?raw=true)
 
