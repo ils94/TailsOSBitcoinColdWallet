@@ -30,7 +30,7 @@ Dans ce tutoriel, j'utiliserai Windows 10. Vous aurez également besoin d'une cl
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. Dans **TailsOS**, cliquez sur le bouton **Start** pour lancer Tails OS.
+7. Dans **TailsOS**, cliquez sur le bouton **Start** pour lancer **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
