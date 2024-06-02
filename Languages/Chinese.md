@@ -10,7 +10,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. 下载USB映像后，通过访问下载页面并点击 **Select your download to verify...** 按钮上传已下载的映像来验证下载。如果验证成功，你可以继续；否则，你必须重新下载映像。然后，从此链接下载 **balenaEtcher**：https://tails.net/etcher/balenaEtcher-portable.exe
+2. 下载完**USB image**后，通过访问下载页面并点击 **Select your download to verify...** 按钮上传已下载的映像来验证下载。如果验证成功，你可以继续；否则，你必须重新下载映像。然后，从此链接下载 **balenaEtcher**：https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
@@ -18,7 +18,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
-4. 通过点击 **Flash from file** 按钮选择USB映像。你的USB棒应该会自动检测到。如果没有，确保你选择了正确的USB棒。然后，点击 **Flash!** 按钮。
+4. 通过点击 **Flash from file** 选择**USB image**。你的USB棒应该会自动检测到。如果没有，确保你选择了正确的USB棒。然后，点击 **Flash!** 按钮。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/03.png?raw=true)
 
