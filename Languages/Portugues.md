@@ -28,7 +28,7 @@ Neste tutorial, usarei o Windows 10. Você também precisará de um pen drive co
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. No **TailsOS**, clique no botão **Start** para iniciar o **TailsOS**.
+7. No **TailsOS**, clique no botão **Start Tails** para iniciar o **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
