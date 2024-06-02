@@ -30,7 +30,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. В **TailsOS** нажмите кнопку **Start**, чтобы запустить **TailsOS**.
+7. В **TailsOS** нажмите кнопку **Start Tails**, чтобы запустить **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
