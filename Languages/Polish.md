@@ -6,7 +6,7 @@
 
 W tym tutorialu będę używał Windows 10. Będziesz również potrzebował pendrive’a o pojemności co najmniej 8GB.
 
-1. Przejdź na stronę https://tails.net/install/download/index.en.html i pobierz obraz USB.
+1. Przejdź na stronę https://tails.net/install/download/index.en.html i pobierz **USB image**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
