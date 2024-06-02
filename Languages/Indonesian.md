@@ -10,7 +10,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. Setelah mengunduh gambar USB, verifikasi unduhan dengan membuka halaman unduhan dan mengunggah gambar yang telah Anda unduh dengan mengklik tombol yang bertuliskan **Select your download to verify...** Jika verifikasi berhasil, Anda dapat melanjutkan; jika tidak, Anda harus mengunduh ulang gambar tersebut. Kemudian, unduh **balenaEtcher** dari tautan ini: https://tails.net/etcher/balenaEtcher-portable.exe
+2. Setelah mengunduh **USB image**, verifikasi unduhan dengan membuka halaman unduhan dan mengunggah gambar yang telah Anda unduh dengan mengklik tombol yang bertuliskan **Select your download to verify...** Jika verifikasi berhasil, Anda dapat melanjutkan; jika tidak, Anda harus mengunduh ulang gambar tersebut. Kemudian, unduh **balenaEtcher** dari tautan ini: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
@@ -18,7 +18,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
-4. Pilih gambar USB dengan mengklik tombol **Flash from file**. USB stick Anda harus terdeteksi secara otomatis. Jika tidak, pastikan Anda memilih USB stick yang benar. Kemudian, klik tombol **Flash!**.
+4. Pilih **USB image** dengan mengklik tombol **Flash from file**. USB stick Anda harus terdeteksi secara otomatis. Jika tidak, pastikan Anda memilih USB stick yang benar. Kemudian, klik tombol **Flash!**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/03.png?raw=true)
 
