@@ -1,4 +1,4 @@
-# Tails OS sürümünüzü güncel tutmak, Bitcoin'lerinizi çalabilecek her türlü kötü amaçlı saldırıdan kaçınmak için çok önemlidir! Eski bir Tails OS sürümü kullanıyorsanız, çevrimdışı cüzdanınıza erişirken ASLA internete bağlanmamayı unutmayın! Çevrimiçi cüzdanınızı oluşturmak için ikinci bir USB sürücü kullanın veya Android veya iOS'ta çevrimiçi cüzdanınızı oluşturmak ve işlemlerinizi QR Kodu ile imzalamak için diğer yöntemleri kullanın. Güvenlik kurallarını ihlal ederseniz, bu uyarıyı göz ardı ederseniz Bitcoin'lerinizin çalınmasıyla ilgili hiçbir sorumluluğum yoktur.
+# TailsOS sürümünüzü güncel tutmak, Bitcoin'lerinizi çalabilecek her türlü kötü amaçlı saldırıdan kaçınmak için çok önemlidir! Eski bir TailsOS sürümü kullanıyorsanız, çevrimdışı cüzdanınıza erişirken ASLA internete bağlanmamayı unutmayın! Çevrimiçi cüzdanınızı oluşturmak için ikinci bir USB sürücü kullanın veya Android veya iOS'ta çevrimiçi cüzdanınızı oluşturmak ve işlemlerinizi QR Kodu ile imzalamak için diğer yöntemleri kullanın. Güvenlik kurallarını ihlal ederseniz, bu uyarıyı göz ardı ederseniz Bitcoin'lerinizin çalınmasıyla ilgili hiçbir sorumluluğum yoktur.
 
 **Bu kılavuz, İngilizce'den Türkçe'ye ChatGPT kullanılarak çevrildi. Bazı çeviri hataları olabilir, ancak umarım Türkçe konuşan topluluk için hala anlamlı olur!**
 
@@ -30,7 +30,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. Tails'te, Tails OS'i başlatmak için **Start** düğmesine tıklayın.
+7. **TailsOS**'te, **TailsOS**'i başlatmak için **Start** düğmesine tıklayın.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
@@ -42,7 +42,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Tails OS kurulumunuzu şifrelemek için güçlü bir şifre oluşturun. **Create Persistent Storage** düğmesine tıklayın.
+10. **TailsOS** kurulumunuzu şifrelemek için güçlü bir şifre oluşturun. **Create Persistent Storage** düğmesine tıklayın.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
@@ -58,7 +58,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Tails OS'u yeniden başlatın ve şifrenizi girin. Ardından, **Unlock Encryption** düğmesine tıklayarak **Tails Persistent Storage**'nızı açın.
+14. **TailsOS**'u yeniden başlatın ve şifrenizi girin. Ardından, **Unlock Encryption** düğmesine tıklayarak **Persistent Storage**'nızı açın.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -70,7 +70,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. **Connect to Tor automatically**'yi seçin.
+17. Seç **Connect to Tor automatically** ve **Connect to Tor** düğmesine tıkla.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -98,7 +98,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. Şimdi, Ian Coleman's GitHub sayfasına bu bağlantıdan gidin: https://github.com/iancoleman/bip39 ve Sürümler'e gidin. Sürümlere bu bağlantıdan erişebilirsiniz: https://github.com/iancoleman/bip39/releases
+24. Şimdi, **Ian Coleman GitHub** sayfasına bu bağlantıdan gidin: https://github.com/iancoleman/bip39 ve Sürümler'e gidin. Sürümlere bu bağlantıdan erişebilirsiniz: https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -122,7 +122,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. Şimdi Tails OS'i internetten ayırın. Şimdi cüzdanımızı oluşturacağız. Bu çok paranoyakça görünebilir, ama güvende olalım, tamam mı?
+30. Şimdi **TailsOS**'i internetten ayırın. Şimdi cüzdanımızı oluşturacağız. Bu çok paranoyakça görünebilir, ama güvende olalım, tamam mı?
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -145,7 +145,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 - gpg --verify signature.txt.asc
 - Enter tuşuna basın
 
-33. Ian'dan **Good signature** yazıyorsa kontrol edin. Eğer iyi olduğunu söylüyorsa, o zaman indirdiğimiz tüm dosyalar geçerlidir.
+33. Kontrol et, eğer **Good signature from Ian Coleman <ian@iancoleman.io>** yazıyorsa. Eğer iyi olduğunu söylüyorsa, o zaman indirdiğimiz tüm dosyaların gerçek olduğu anlamına gelir.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -156,7 +156,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 - sha256sum bip39-standalone.html
 - Enter tuşuna basın
 
-35. Hem Terminal'deki hash'i hem de Ian'ın GitHub'daki hash'i kontrol edin. Eğer eşleşiyorlarsa, o zaman **bip39-standalone.html** dosyası da geçerlidir.
+35. Terminal'de ve **Ian Coleman GitHub** üzerindeki hash'i kontrol edin. Eğer eşleşiyorlarsa, o zaman **bip39-standalone.html** dosyası da doğruludur.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
@@ -234,7 +234,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 **Bu, Online Cüzdanımızı oluşturduğumuz bölümdür ve iki seçeneğiniz var:**
 
-- **1- Çevrimdışı Cüzdanınızı içeren aynı Tails OS kurulumu içinde Online Cüzdanı oluşturabilirsiniz. Bu durumda, Bitcoins'inize yönelik herhangi bir saldırı vektörünü önlemek için ÇEVRİMİÇİ OLMADAN Çevrimdışı Cüzdana erişirken İNTERNETE BAĞLANMAMALISINIZ.**
+- **1- Çevrimdışı Cüzdanınızı içeren aynı TailsOS kurulumu içinde Online Cüzdanı oluşturabilirsiniz. Bu durumda, Bitcoins'inize yönelik herhangi bir saldırı vektörünü önlemek için ÇEVRİMİÇİ OLMADAN Çevrimdışı Cüzdana erişirken İNTERNETE BAĞLANMAMALISINIZ.**
 
 - **2- Başka bir USB sürücü kullanabilir, yukarıdaki süreci aynen takip edebilir ve ardından yeni USB sürücüdeki Online Cüzdanınızı oluşturmak için bir sonraki adımları izleyebilirsiniz. Bu, Çevrimdışı Cüzdana internet bağlantısı olanken erişme hatalarını önlemeye yardımcı olur.**
 
@@ -242,7 +242,7 @@ Bu eğitimde, Windows 10 kullanacağım. Ayrıca en az 8GB alanı olan bir USB b
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/51.png?raw=true)
 
-55. **Master Public Key**'inizi kopyalayın (bu anahtarı kimseyle paylaşmayın. Birisi Master Public Key'inize erişirse, adreslerinizi ve ne kadar Bitcoin'iniz olduğunu görebilir).
+55. **Master Public Key**'inizi kopyalayın (bu anahtarı kimseyle paylaşmayın. Birisi **Master Public Key**'inize erişirse, adreslerinizi ve ne kadar Bitcoin'iniz olduğunu görebilir).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
