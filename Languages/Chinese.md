@@ -6,7 +6,7 @@
 
 在本教程中，我将使用Windows 10。你还需要一个至少8GB空间的USB棒。
 
-1. 前往 https://tails.net/install/download/index.en.html 下载 **USB Image**。
+1. 前往 https://tails.net/install/download/index.en.html 下载 **USB image**。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
