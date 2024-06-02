@@ -30,7 +30,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. **TailsOS** 에서 **Start** 버튼을 클릭하여 **TailsOS** 를 시작합니다.
+7. **TailsOS** 에서 **Start Tails** 버튼을 클릭하여 **TailsOS** 를 시작합니다.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
