@@ -14,3 +14,4 @@
 # Türkçe Kılavuz [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Turkish.md)
 # Samouczek po polsku [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Polish.md)
 # Tutorial sa Pilipino [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Philippine.md)
+# Opas suomeksi [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Finnish.md)
