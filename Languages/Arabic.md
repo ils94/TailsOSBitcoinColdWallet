@@ -18,7 +18,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
-4. اختر صورة USB بالنقر على زر **Flash from file**. يجب أن يتم اكتشاف محرك USB تلقائيًا. إذا لم يكن كذلك، تأكد من تحديد محرك USB الصحيح. ثم انقر على زر **Flash!**.
+4. اختر **USB image** بالنقر على زر **Flash from file**. يجب أن يتم اكتشاف محرك USB تلقائيًا. إذا لم يكن كذلك، تأكد من تحديد محرك USB الصحيح. ثم انقر على زر **Flash!**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/03.png?raw=true)
 
