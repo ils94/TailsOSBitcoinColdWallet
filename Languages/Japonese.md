@@ -10,7 +10,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. USBイメージをダウンロードしたら、ダウンロードページにアクセスし、**Select your download to verify...** ボタンをクリックしてダウンロードしたイメージをアップロードして、ダウンロードを確認します。確認が成功した場合は続行できます。そうでない場合は、イメージを再ダウンロードする必要があります。その後、このリンクから **balenaEtcher** をダウンロードします: https://tails.net/etcher/balenaEtcher-portable.exe
+2. **USB image**をダウンロードしたら、ダウンロードページにアクセスし、**Select your download to verify...** ボタンをクリックしてダウンロードしたイメージをアップロードして、ダウンロードを確認します。確認が成功した場合は続行できます。そうでない場合は、イメージを再ダウンロードする必要があります。その後、このリンクから **balenaEtcher** をダウンロードします: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
@@ -18,7 +18,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
-4. **Flash from file** ボタンをクリックしてUSBイメージを選択します。USBメモリは自動的に検出されるはずです。検出されない場合は、正しいUSBメモリを選択していることを確認してください。次に、**Flash!** ボタンをクリックします。
+4. **Flash from file** ボタンをクリックして**USB image**を選択します。USBメモリは自動的に検出されるはずです。検出されない場合は、正しいUSBメモリを選択していることを確認してください。次に、**Flash!** ボタンをクリックします。
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/03.png?raw=true)
 
