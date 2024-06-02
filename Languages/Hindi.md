@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Tails OS को पुनः शुरू करें और अपना पासवर्ड दर्ज करें। फिर, **Unlock Encryption** बटन पर क्लिक करें ताकि आप अपनी **Tails Persistent Storage** को अनलॉक कर सकें।
+14. **TailsOS** को पुनः शुरू करें और अपना पासवर्ड दर्ज करें। फिर, **Unlock Encryption** बटन पर क्लिक करें ताकि आप अपनी **Tails Persistent Storage** को अनलॉक कर सकें।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -70,7 +70,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. **Connect to Tor automatically** को चुनें।
+17. **Connect to Tor automatically** का चयन करें और **Connect to Tor** बटन पर क्लिक करें।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -98,7 +98,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. अब, इस लिंक पर Ian Coleman's GitHub पेज पर जाएं: https://github.com/iancoleman/bip39 और Releases पर जाएं। आप इस लिंक से भी Releases तक पहुंच सकते हैं: https://github.com/iancoleman/bip39/releases
+24. अब, इस लिंक पर **Ian Coleman GitHub** पेज पर जाएं: https://github.com/iancoleman/bip39 और Releases पर जाएं। आप इस लिंक से भी Releases तक पहुंच सकते हैं: https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -122,7 +122,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. अब, Tails OS को इंटरनेट से डिस्कनेक्ट करें। अब हम अपना वॉलेट बनाएंगे। यह बहुत अधिक पैरानोइड लग सकता है, लेकिन सुरक्षित रहना बेहतर है, ठीक है?
+30. अब, **TailsOS** को इंटरनेट से डिस्कनेक्ट करें। अब हम अपना वॉलेट बनाएंगे। यह बहुत अधिक पैरानोइड लग सकता है, लेकिन सुरक्षित रहना बेहतर है, ठीक है?
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -145,7 +145,7 @@
 - gpg --verify signature.txt.asc
 - Enter दबाएं
 
-33. देखें कि यह **Good signature** from Ian कहता है। यदि यह कहता है कि यह अच्छा है, तो इसका मतलब है कि हमने जो सभी फ़ाइलें डाउनलोड की हैं वे वैध हैं।
+33. जांचें कि क्या यह **Good signature from Ian Coleman <ian@iancoleman.io>** कहता है। अगर यह ठीक है, तो इसका मतलब है कि हमने डाउनलोड किए गए सभी फ़ाइलें वैध हैं।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -156,7 +156,7 @@
 - sha256sum bip39-standalone.html
 - Enter दबाएं
 
-35. टर्मिनल में हैश और Ian के GitHub पर हैश दोनों की जांच करें। यदि वे मेल खाते हैं, तो **bip39-standalone.html** फ़ाइल भी वैध है।
+35. टर्मिनल में हैश और **Ian Coleman GitHub** पर हैश दोनों की जांच करें। यदि वे मेल खाते हैं, तो **bip39-standalone.html** फ़ाइल भी वैध है।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
@@ -234,7 +234,7 @@
 
 **यह वह हिस्सा है जहाँ हम अपना Online Wallet बनाते हैं, और आपके पास दो विकल्प हैं:**
 
-- **1- आप Online Wallet को उसी Tails OS की स्थापना में बना सकते हैं जिसमें आपका Offline Wallet होता है। इस स्थिति में, जब आप Offline Wallet का उपयोग करते हैं तो इंटरनेट से कनेक्ट न करें ताकि आपके Bitcoins पर किसी भी प्रकार के अटैक वेक्टर को रोका जा सके।**
+- **1- आप Online Wallet को उसी TailsOS की स्थापना में बना सकते हैं जिसमें आपका Offline Wallet होता है। इस स्थिति में, जब आप Offline Wallet का उपयोग करते हैं तो इंटरनेट से कनेक्ट न करें ताकि आपके Bitcoins पर किसी भी प्रकार के अटैक वेक्टर को रोका जा सके।**
 
 - **2- आप एक अन्य USB स्टिक का उपयोग कर सकते हैं, ऊपर दिए गए समान प्रक्रिया का पालन करें, और फिर नए USB स्टिक पर अपना Online Wallet बनाने के लिए अगले चरणों का पालन करें। यह इंटरनेट से जुड़े होते समय आपके Offline Wallet तक पहुंचने में मानवीय त्रुटि को रोकने में मदद करता है।**
 
@@ -242,7 +242,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/51.png?raw=true)
 
-55. अपने **Master Public Key** को कॉपी करें (इस कुंजी को किसी के साथ साझा न करें। यदि किसी को आपके Master Public Key का एक्सेस मिल जाता है, तो वे आपके पते और आपके पास कितने Bitcoin हैं, यह देख पाएंगे)।
+55. अपने **Master Public Key** को कॉपी करें (इस कुंजी को किसी के साथ साझा न करें। यदि किसी को आपके **Master Public Key** का एक्सेस मिल जाता है, तो वे आपके पते और आपके पास कितने Bitcoin हैं, यह देख पाएंगे)।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
