@@ -30,7 +30,7 @@ In questo tutorial, utilizzerò Windows 10. Avrai anche bisogno di una chiavetta
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. In **TailsOS**, clicca il pulsante **Start** per avviare **TailsOS**.
+7. In **TailsOS**, clicca il pulsante **Start Tails** per avviare **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
