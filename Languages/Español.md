@@ -58,7 +58,7 @@ En este tutorial, estaré usando Windows 10. También necesitarás un USB con al
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Reinicia **TailsOS** y ingresa tu contraseña. Luego, haz clic en el botón **Unlock Encryption** para desbloquear tu **Tails Persistent Storage**.
+14. Reinicia **TailsOS** y ingresa tu contraseña. Luego, haz clic en el botón **Unlock Encryption** para desbloquear tu **Persistent Storage**.
 
 ![imagen](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
