@@ -30,7 +30,7 @@ In diesem Tutorial verwende ich Windows 10. Sie benötigen auch einen USB-Stick 
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. Klicken Sie in **TailsOS** auf die Schaltfläche **Start**, um **TailsOS** zu starten.
+7. Klicken Sie in **TailsOS** auf die Schaltfläche **Start Tails**, um **TailsOS** zu starten.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
