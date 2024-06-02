@@ -30,7 +30,7 @@ W tym tutorialu będę używał Windows 10. Będziesz również potrzebował pen
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. W **TailsOS**, kliknij przycisk **Start**, aby uruchomić **TailsOS**.
+7. W **TailsOS**, kliknij przycisk **Start Tails**, aby uruchomić **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
