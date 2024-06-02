@@ -58,7 +58,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. **TailsOS** को पुनः शुरू करें और अपना पासवर्ड दर्ज करें। फिर, **Unlock Encryption** बटन पर क्लिक करें ताकि आप अपनी **Tails Persistent Storage** को अनलॉक कर सकें।
+14. **TailsOS** को पुनः शुरू करें और अपना पासवर्ड दर्ज करें। फिर, **Unlock Encryption** बटन पर क्लिक करें ताकि आप अपनी **Persistent Storage** को अनलॉक कर सकें।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
