@@ -6,7 +6,7 @@
 
 इस ट्यूटोरियल में, मैं Windows 10 का उपयोग कर रहा हूँ। आपको कम से कम 8GB की जगह वाली एक USB स्टिक की भी आवश्यकता होगी।
 
-1. https://tails.net/install/download/index.pt.html पर जाएं और USB इमेज डाउनलोड करें।
+1. https://tails.net/install/download/index.en.html पर जाएं और **USB Image** डाउनलोड करें।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
