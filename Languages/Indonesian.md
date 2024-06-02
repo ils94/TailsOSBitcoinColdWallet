@@ -6,7 +6,7 @@
 
 Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB stick dengan kapasitas minimal 8GB.
 
-1. Buka https://tails.net/install/download/index.pt.html dan unduh Gambar USB.
+1. Buka https://tails.net/install/download/index.en.html dan unduh **USB image**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
