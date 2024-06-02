@@ -10,7 +10,7 @@ In diesem Tutorial verwende ich Windows 10. Sie benötigen auch einen USB-Stick 
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
-2. Nach dem Herunterladen des USB-Images überprüfen Sie den Download, indem Sie auf die Download-Seite gehen und Ihr heruntergeladenes Image hochladen, indem Sie auf die Schaltfläche klicken, die **Select your download to verify...** sagt. Wenn die Überprüfung erfolgreich ist, können Sie fortfahren. Andernfalls müssen Sie das Image erneut herunterladen. Laden Sie dann **balenaEtcher** von diesem Link herunter: https://tails.net/etcher/balenaEtcher-portable.exe
+2. Nach dem Herunterladen des **USB image** überprüfen Sie den Download, indem Sie auf die Download-Seite gehen und Ihr heruntergeladenes Image hochladen, indem Sie auf die Schaltfläche klicken, die **Select your download to verify...** sagt. Wenn die Überprüfung erfolgreich ist, können Sie fortfahren. Andernfalls müssen Sie das Image erneut herunterladen. Laden Sie dann **balenaEtcher** von diesem Link herunter: https://tails.net/etcher/balenaEtcher-portable.exe
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Images/60.PNG?raw=true)
 
@@ -18,7 +18,7 @@ In diesem Tutorial verwende ich Windows 10. Sie benötigen auch einen USB-Stick 
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/02.png?raw=true)
 
-4. Wählen Sie das USB-Image aus, indem Sie auf die Schaltfläche **Flash from file** klicken. Ihr USB-Stick sollte automatisch erkannt werden. Wenn nicht, stellen Sie sicher, dass Sie den richtigen USB-Stick auswählen. Klicken Sie dann auf die Schaltfläche **Flash!**.
+4. Wählen Sie das **USB image** aus, indem Sie auf die Schaltfläche **Flash from file** klicken. Ihr USB-Stick sollte automatisch erkannt werden. Wenn nicht, stellen Sie sicher, dass Sie den richtigen USB-Stick auswählen. Klicken Sie dann auf die Schaltfläche **Flash!**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/03.png?raw=true)
 
