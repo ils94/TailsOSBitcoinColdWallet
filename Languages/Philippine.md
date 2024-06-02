@@ -266,9 +266,7 @@ Type:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/57.png?raw=true)
 
-61. Ang iyong watching-only wallet ay nalikha na, at ipapakita sa iyo ang isang babala na nagsasabing **This wallet is watching-only. This means you will
-
- not be able to spend Bitcoins with it. Make sure you own the seed phrase or private keys, before you request Bitcoins to be sent to this wallet.**
+61. Ang iyong watching-only wallet ay nalikha na, at ipapakita sa iyo ang isang babala na nagsasabing **Ang wallet na ito ay watching-only. Ibig sabihin, hindi ka makakapaglabas ng Bitcoins gamit ito. Siguraduhing iyo ang seed phrase o private keys bago mo hilingin na ipadala ang Bitcoins sa wallet na ito.**
 
 Ang isang watching-only wallet ay para lamang magpakita ng mga address at Bitcoin balance, maaari kang magpadala ng Bitcoins mula rito ngunit kailangan mo munang i-sign ang transaction gamit ang iyong **Offline** wallet.
 
