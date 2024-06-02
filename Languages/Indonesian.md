@@ -30,7 +30,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. Di **TailsOS**, klik tombol **Start** untuk memulai **TailsOS**.
+7. Di **TailsOS**, klik tombol **Start Tails** untuk memulai **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
