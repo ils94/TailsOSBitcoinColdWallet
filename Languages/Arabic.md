@@ -6,7 +6,7 @@
 
 في هذا الدليل، سأستخدم نظام التشغيل Windows 10. ستحتاج أيضًا إلى محرك USB بسعة لا تقل عن 8 جيجابايت.
 
-1. اذهب إلى https://tails.net/install/download/index.en.html وقم بتنزيل **USD Image**.
+1. اذهب إلى https://tails.net/install/download/index.en.html وقم بتنزيل **USB Image**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/01.PNG?raw=true)
 
