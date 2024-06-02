@@ -1,4 +1,4 @@
-# Sangat penting untuk selalu memperbarui versi Tails OS Anda untuk menghindari segala jenis serangan jahat yang dapat mencuri Bitcoin Anda! Jika Anda menggunakan versi Tails OS yang sudah ketinggalan zaman, ingatlah untuk TIDAK PERNAH terhubung ke internet saat mengakses dompet offline Anda! Gunakan USB drive kedua untuk membuat dompet online Anda, atau gunakan cara lain untuk memiliki dompet online di Android atau iOS, dan gunakan metode untuk menandatangani transaksi Anda melalui QR Code. Saya tidak bertanggung jawab atas pencurian Bitcoin Anda jika Anda melanggar aturan keamanan apa pun, termasuk mengabaikan peringatan ini.
+# Sangat penting untuk selalu memperbarui versi TailsOS Anda untuk menghindari segala jenis serangan jahat yang dapat mencuri Bitcoin Anda! Jika Anda menggunakan versi TailsOS yang sudah ketinggalan zaman, ingatlah untuk TIDAK PERNAH terhubung ke internet saat mengakses dompet offline Anda! Gunakan USB drive kedua untuk membuat dompet online Anda, atau gunakan cara lain untuk memiliki dompet online di Android atau iOS, dan gunakan metode untuk menandatangani transaksi Anda melalui QR Code. Saya tidak bertanggung jawab atas pencurian Bitcoin Anda jika Anda melanggar aturan keamanan apa pun, termasuk mengabaikan peringatan ini.
 
 **Tutorial ini diterjemahkan dari bahasa Inggris ke bahasa Indonesia menggunakan ChatGPT. Mungkin ada beberapa kesalahan terjemahan, tapi saya harap masih bisa dimengerti oleh komunitas penutur bahasa Indonesia!**
 
@@ -30,7 +30,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. Di Tails, klik tombol **Start** untuk memulai Tails OS.
+7. Di **TailsOS**, klik tombol **Start** untuk memulai **TailsOS**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
@@ -42,7 +42,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/08.png?raw=true)
 
-10. Buatlah kata sandi yang kuat untuk mengenkripsi instalasi Tails OS Anda. Klik tombol **Create Persistent Storage**.
+10. Buatlah kata sandi yang kuat untuk mengenkripsi instalasi **TailsOS** Anda. Klik tombol **Create Persistent Storage**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/09.png?raw=true)
 
@@ -58,7 +58,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/12.png?raw=true)
 
-14. Restart Tails OS dan masukkan kata sandi Anda. Kemudian, klik tombol **Unlock Encryption** untuk membuka **Tails Persistent Storage** Anda.
+14. Restart **TailsOS** dan masukkan kata sandi Anda. Kemudian, klik tombol **Unlock Encryption** untuk membuka **Tails Persistent Storage** Anda.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/13.png?raw=true)
 
@@ -70,7 +70,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/15.png?raw=true)
 
-17. Pilih **Connect to Tor automatically**.
+17. Pilih **Connect to Tor automatically** dan klik tombol **Connect to Tor**.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/16.png?raw=true)
 
@@ -98,7 +98,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/22.png?raw=true)
 
-24. Sekarang, buka halaman GitHub Ian Coleman di tautan ini: https://github.com/iancoleman/bip39 dan buka Releases. Anda dapat mengakses rilis dari tautan ini: https://github.com/iancoleman/bip39/releases
+24. Sekarang, buka halaman **Ian Coleman GitHub** di tautan ini: https://github.com/iancoleman/bip39 dan buka Releases. Anda dapat mengakses rilis dari tautan ini: https://github.com/iancoleman/bip39/releases
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/23.png?raw=true)
 
@@ -122,7 +122,7 @@ Dalam tutorial ini, saya akan menggunakan Windows 10. Anda juga memerlukan USB s
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/28.png?raw=true)
 
-30. Sekarang, putuskan koneksi Tails OS dari internet. Kita akan membuat dompet kita sekarang. Kedengarannya terlalu paranoid, tetapi mari kita aman, oke?
+30. Sekarang, putuskan koneksi **TailsOS** dari internet. Kita akan membuat dompet kita sekarang. Kedengarannya terlalu paranoid, tetapi mari kita aman, oke?
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/29.png?raw=true)
 
@@ -145,7 +145,7 @@ Ketik:
 - gpg --verify signature.txt.asc
 - Tekan Enter
 
-33. Periksa apakah dikatakan **Good signature** dari Ian. Jika dikatakan baik, maka itu berarti semua file yang kita unduh sah.
+33. Periksa apakah tertulis **Good signature from Ian Coleman <ian@iancoleman.io>**. Jika tertulis seperti itu, berarti semua file yang kita unduh adalah asli.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/31.png?raw=true)
 
@@ -156,7 +156,7 @@ Ketik:
 - sha256sum bip39-standalone.html
 - Tekan Enter
 
-35. Periksa hash di Terminal dan hash di GitHub Ian. Jika cocok, maka file **bip39-standalone.html** juga sah.
+35. Periksa kedua hash di Terminal dan hash di **Ian Coleman Github**. Jika cocok, maka file **bip39-standalone.html** juga sah.
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/32.png?raw=true)
 
@@ -234,7 +234,7 @@ Ketik:
 
 **Ini adalah bagian di mana kita membuat Dompet Online kita, dan Anda memiliki dua opsi:**
 
-- **1- Anda dapat membuat Dompet Online dalam instalasi Tails OS yang sama yang berisi Dompet Offline Anda. Dalam hal ini, Anda sebaiknya TIDAK MENGHUBUNGKAN KE INTERNET saat mengakses Dompet Offline untuk mencegah vektor serangan pada Bitcoin Anda.**
+- **1- Anda dapat membuat Dompet Online dalam instalasi TailsOS yang sama yang berisi Dompet Offline Anda. Dalam hal ini, Anda sebaiknya TIDAK MENGHUBUNGKAN KE INTERNET saat mengakses Dompet Offline untuk mencegah vektor serangan pada Bitcoin Anda.**
 
 - **2- Anda dapat menggunakan USB stick lain, ikuti proses yang sama seperti di atas, dan kemudian ikuti langkah-langkah berikutnya untuk membuat Dompet Online pada USB stick yang baru. Ini membantu mencegah kesalahan manusia saat mengakses Dompet Offline Anda saat terhubung ke internet.**
 
@@ -242,7 +242,7 @@ Ketik:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/51.png?raw=true)
 
-55. Salin **Master Public Key** Anda (jangan bagikan kunci ini dengan siapa pun. Jika seseorang mendapatkan akses ke Master Public Key Anda, mereka akan dapat melihat alamat Anda dan berapa banyak Bitcoin yang Anda miliki).
+55. Salin **Master Public Key** Anda (jangan bagikan kunci ini dengan siapa pun. Jika seseorang mendapatkan akses ke **Master Public Key** Anda, mereka akan dapat melihat alamat Anda dan berapa banyak Bitcoin yang Anda miliki).
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/52.png?raw=true)
 
