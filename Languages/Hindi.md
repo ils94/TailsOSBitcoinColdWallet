@@ -30,7 +30,7 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/05.png?raw=true)
 
-7. **TailsOS** में, **Start** बटन पर क्लिक करें ताकि Tails OS शुरू हो सके।
+7. **TailsOS** में, **Start** बटन पर क्लिक करें ताकि **TailsOS** शुरू हो सके।
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/06.png?raw=true)
 
