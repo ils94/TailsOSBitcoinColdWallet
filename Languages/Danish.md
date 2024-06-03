@@ -232,11 +232,11 @@ Skriv:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
 
-**This is the part where we create our Online Wallet, and you have two options:**
+**Dette er det afsnit, hvor vi opretter vores Online Wallet, og du har to muligheder:**
 
-- **1- You can create the Online Wallet within the same installation of TailsOS that contains your Offline Wallet. In this case, you should NOT CONNECT TO THE INTERNET when accessing the Offline Wallet to prevent any attack vectors on your Bitcoins.**
+- **1- Du kan oprette Online Wallet'en inden for den samme installation af TailsOS, som indeholder din Offline Wallet. I dette tilfælde skal du IKKE FORBINDE TIL INTERNETTET, når du får adgang til Offline Wallet'en for at forhindre eventuelle angrebsvektorer på dine Bitcoins.**
 
-- **2- You can use another USB stick, follow the same process as above, and then follow the next steps to create your Online Wallet on the new USB stick. This helps prevent human error of accessing your Offline Wallet while connected to the internet.**
+- **2- Du kan bruge en anden USB-stick, følge den samme proces som ovenfor, og derefter følge de næste trin for at oprette din Online Wallet på den nye USB-stick. Dette hjælper med at forhindre menneskelige fejl ved at få adgang til din Offline Wallet, mens du er forbundet til internettet.**
 
 54. Gå nu til **Electrum Bitcoin Wallet** og gå til **Information**.
 
