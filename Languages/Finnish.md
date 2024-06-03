@@ -1,5 +1,7 @@
 # On erittäin tärkeää pitää TailsOS-versiosi ajan tasalla välttääksesi minkäänlaista haitallista hyökkäystä, joka voisi varastaa Bitcoinisi! Jos käytät vanhentunutta TailsOS-versiota, muista, että ET SAA KOSKAAN YHDISTÄ INTERNETTIIN, kun käytät offline-lompakkoasi! Käytä toista USB-asemaa luodaksesi online-lompakkosi tai käytä muita keinoja, kuten Android- tai iOS-sovelluksia, ja allekirjoita siirrot QR-koodilla. En ole vastuussa Bitcoiniesi varkaudesta, jos rikot mitään turvallisuussääntöjä, mukaan lukien tämän varoituksen huomiotta jättäminen.
 
+**Tämä opas on käännetty englannista suomeksi käyttäen ChatGPT:tä. Käännösvirheitä saattaa esiintyä, mutta toivon, että opas on silti ymmärrettävä suomenkieliselle yhteisölle!**
+
 **Suomenkielinen opas: Bitcoin-kylmälompakon luominen TailsOS:lla ja pysyvällä tallennustilalla**
 
 Tässä opetusohjelmassa käytän Windows 10:tä. Tarvitset myös USB-muistitikun, jossa on vähintään 8 Gt tilaa.
