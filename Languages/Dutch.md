@@ -1,5 +1,7 @@
 # Het is erg belangrijk om je TailsOS-versie up-to-date te houden om elke vorm van kwaadaardige aanval te voorkomen die je Bitcoins zou kunnen stelen! Als je een verouderde versie van TailsOS gebruikt, onthoud dan om NOOIT verbinding te maken met het internet wanneer je toegang hebt tot je offline wallet! Gebruik een tweede USB-stick om je online wallet te maken, of gebruik andere middelen om een online wallet op Android of iOS te hebben, en gebruik methoden om je transacties te ondertekenen met een QR-code. Ik ben niet verantwoordelijk voor enige diefstal van je Bitcoins als je enige veiligheidsregels overtreedt, inclusief het negeren van deze waarschuwing.
 
+**Deze handleiding is vertaald van Engels naar Nederlands met behulp van ChatGPT. Er kunnen enkele vertaalfouten zijn, maar ik hoop dat het nog steeds begrijpelijk is voor de Nederlandstalige gemeenschap!**
+
 **Nederlandse Handleiding: Een Bitcoin Cold Wallet Maken met TailsOS en Persistent Storage**
 
 In deze tutorial zal ik Windows 10 gebruiken. Je hebt ook een USB-stick nodig met minstens 8GB aan ruimte.
