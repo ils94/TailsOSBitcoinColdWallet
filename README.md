@@ -16,3 +16,4 @@
 # Tutorial sa Pilipino [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Philippine.md)
 # Opas suomeksi [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Finnish.md)
 # Handledning på svenska [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Swedish.md)
+# Handleiding in het Nederlands [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Dutch.md)
