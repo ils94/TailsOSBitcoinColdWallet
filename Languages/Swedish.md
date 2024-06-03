@@ -1,5 +1,7 @@
 # Det är mycket viktigt att hålla din TailsOS-version uppdaterad för att undvika någon form av skadlig attack som kan stjäla dina bitcoins! Om du använder en föråldrad version av TailsOS, kom ihåg att ALDRIG ansluta till internet när du går åt din offline-plånbok! Använd en andra USB-enhet för att skapa din online-plånbok, eller använd andra metoder för att ha en online-plånbok på Android eller iOS, och använd metoder för att signera dina transaktioner med QR-kod. Jag är inte ansvarig för någon stöld av dina bitcoins om du bryter mot några säkerhetsregler, inklusive att ignorera denna varning.
 
+**Deze handleiding is vertaald van Engels naar Nederlands met behulp van ChatGPT. Er kunnen enkele vertaalfouten zijn, maar ik hoop dat het nog steeds begrijpelijk is voor de Nederlandstalige gemeenschap!**
+
 **Svensk handledning: Skapa en Bitcoin Cold Wallet med TailsOS och Persistent Storage**
 
 I denna handledning kommer jag att använda Windows 10. Du behöver också ett USB-minne med minst 8 GB utrymme.
