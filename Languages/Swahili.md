@@ -1,5 +1,7 @@
 # Ni muhimu sana kuweka toleo lako la TailsOS limekusasishwa ili kuepuka aina yoyote ya shambulio la kudhuru ambalo linaweza kuiba Bitcoins zako! Ikiwa unatumia toleo la zamani la TailsOS, kumbuka KUTOJIUNGA kamwe na mtandao unapotumia mkoba wako wa nje ya mtandao! Tumia kifaa cha pili cha USB kuunda mkoba wako wa mtandaoni, au tumia njia nyinginezo kuwa na mkoba wa mtandaoni kwenye Android au iOS, na tumia njia za kusaini miamala yako kwa QR Code. Sihusiki na wizi wowote wa Bitcoins zako ikiwa utavunja sheria yoyote ya usalama, ikijumuisha kupuuza onyo hili.
 
+**Hii mafunzo yalitafsiriwa kutoka Kiingereza kwenda Kiswahili kwa kutumia ChatGPT. Kunaweza kuwa na makosa kadhaa ya tafsiri, lakini natumai bado inaeleweka kwa jamii ya wasemaji wa Kiswahili!**
+
 **Mafunzo ya Kiswahili: Kuunda Mkoba wa Bitcoin wa Cold Kutumia TailsOS na Hifadhi ya Kudumu**
 
 Katika mafunzo haya, nitakuwa nikitumia Windows 10. Pia utahitaji fimbo ya USB yenye angalau 8GB ya nafasi.
