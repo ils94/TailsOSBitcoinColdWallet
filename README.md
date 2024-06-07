@@ -19,3 +19,4 @@
 # Handleiding in het Nederlands [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Dutch.md)
 # Vejledning på dansk [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Danish.md)
 # Mafunzo kwa Kiswahili [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Swahili.md)
+# Juhend eesti keeles [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Estonian.md)
