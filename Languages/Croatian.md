@@ -232,11 +232,11 @@ Upišite:
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
 
-**This is the part where we create our Online Wallet, and you have two options:**
+**Ovo je dio gdje stvaramo naš Online Novčanik, i imate dvije opcije:**
 
-- **1- You can create the Online Wallet within the same installation of TailsOS that contains your Offline Wallet. In this case, you should NOT CONNECT TO THE INTERNET when accessing the Offline Wallet to prevent any attack vectors on your Bitcoins.**
+**1- Možete stvoriti Online Novčanik unutar iste instalacije TailsOS-a koja sadrži vaš Offline Novčanik. U ovom slučaju, NE BISTE TREBALI BITI SPOJENI NA INTERNET kada pristupate Offline Novčaniku kako biste spriječili bilo kakve vektore napada na vaše Bitcoine.**
 
-- **2- You can use another USB stick, follow the same process as above, and then follow the next steps to create your Online Wallet on the new USB stick. This helps prevent human error of accessing your Offline Wallet while connected to the internet.**
+**2- Možete koristiti drugi USB stick, slijediti isti postupak kao i gore navedeno, a zatim slijediti sljedeće korake kako biste stvorili svoj Online Novčanik na novom USB sticku. Ovo pomaže u sprječavanju ljudske pogreške prilikom pristupa vašem Offline Novčaniku dok ste spojeni na internet.**
 
 54. Sada idite na **Electrum Bitcoin Wallet** i idite na **Information**.
 
