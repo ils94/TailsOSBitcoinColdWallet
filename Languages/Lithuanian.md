@@ -232,11 +232,11 @@
 
 ![enter image description here](https://github.com/ils94/TailsOSBitcoinWallet/blob/main/Images/50.png?raw=true)
 
-**This is the part where we create our Online Wallet, and you have two options:**
+**Ši dalis yra skirta mūsų internetinei piniginei sukurti, ir turite dvi galimybes:**
 
-- **1- You can create the Online Wallet within the same installation of TailsOS that contains your Offline Wallet. In this case, you should NOT CONNECT TO THE INTERNET when accessing the Offline Wallet to prevent any attack vectors on your Bitcoins.**
+**1- Galite sukurti internetinę piniginę toje pačioje TailsOS instaliacijoje, kurioje yra jūsų neprisijungusi piniginė. Tokiu atveju NETURĖTUMĖTE PRISIJUNGTI PRIE INTERNETO, kai naudojatės neprisijungusia pinigine, kad išvengtumėte bet kokių atakų vektorių jūsų bitkoinams.**
 
-- **2- You can use another USB stick, follow the same process as above, and then follow the next steps to create your Online Wallet on the new USB stick. This helps prevent human error of accessing your Offline Wallet while connected to the internet.**
+**2- Galite naudoti kitą USB atmintinę, laikytis tos pačios procedūros kaip aukščiau, ir tada sekti kitus žingsnius, kad sukurtumėte internetinę piniginę naujoje USB atmintinėje. Tai padeda išvengti žmogiškų klaidų, kai naudojatės neprisijungusia pinigine būdami prisijungę prie interneto.**
 
 54. Dabar eikite į **Electrum Bitcoin Wallet** ir pasirinkite **Information**.
 
