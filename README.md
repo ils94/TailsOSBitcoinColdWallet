@@ -1,4 +1,4 @@
-# TailsOS Tutorial multilanguage
+# Multilingual Tutorial for a Bitcoin Cold Wallet Using Tails OS Persistent Storage
 
 - ⠀العربية [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Arabic.md)
 - 中文 [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Chinese.md)
