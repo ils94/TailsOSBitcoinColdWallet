@@ -234,9 +234,9 @@
 
 **Ši dalis yra skirta mūsų internetinei piniginei sukurti, ir turite dvi galimybes:**
 
-**1- Galite sukurti internetinę piniginę toje pačioje TailsOS instaliacijoje, kurioje yra jūsų neprisijungusi piniginė. Tokiu atveju NETURĖTUMĖTE PRISIJUNGTI PRIE INTERNETO, kai naudojatės neprisijungusia pinigine, kad išvengtumėte bet kokių atakų vektorių jūsų bitkoinams.**
+- **1- Galite sukurti internetinę piniginę toje pačioje TailsOS instaliacijoje, kurioje yra jūsų neprisijungusi piniginė. Tokiu atveju NETURĖTUMĖTE PRISIJUNGTI PRIE INTERNETO, kai naudojatės neprisijungusia pinigine, kad išvengtumėte bet kokių atakų vektorių jūsų bitkoinams.**
 
-**2- Galite naudoti kitą USB atmintinę, laikytis tos pačios procedūros kaip aukščiau, ir tada sekti kitus žingsnius, kad sukurtumėte internetinę piniginę naujoje USB atmintinėje. Tai padeda išvengti žmogiškų klaidų, kai naudojatės neprisijungusia pinigine būdami prisijungę prie interneto.**
+- **2- Galite naudoti kitą USB atmintinę, laikytis tos pačios procedūros kaip aukščiau, ir tada sekti kitus žingsnius, kad sukurtumėte internetinę piniginę naujoje USB atmintinėje. Tai padeda išvengti žmogiškų klaidų, kai naudojatės neprisijungusia pinigine būdami prisijungę prie interneto.**
 
 54. Dabar eikite į **Electrum Bitcoin Wallet** ir pasirinkite **Information**.
 
