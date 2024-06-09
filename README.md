@@ -1,4 +1,4 @@
-- البرنامج التعليمي باللغة العربية [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Arabic.md)
+- Tutorial in Arabic [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Arabic.md)
 - Samouczek po polsku [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Polish.md)
 - Opas suomeksi [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Finnish.md)
 - Handledning på svenska [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Swedish.md)
