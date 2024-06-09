@@ -22,3 +22,4 @@
 # Juhend eesti keeles [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Estonian.md)
 # Pamoka lietuvių kalba [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Lithuanian.md)
 # Vodič na hrvatskom [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Croatian.md)
+# Підручник українською мовою [Link](https://github.com/ils94/TailsOSBitcoinColdWallet/blob/main/Languages/Ukranian.md)
