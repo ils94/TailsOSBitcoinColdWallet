@@ -1,6 +1,6 @@
 # É muito importante manter a sua versão do TailsOS atualizada para evitar qualquer tipo de ataque malicioso que possa roubar seus Bitcoins! Se estiver utilizando uma versão desatualizada do TailsOS, lembre-se de NUNCA se conectar à internet ao acessar sua carteira offline! Utilize um segundo pendrive para criar sua carteira online, ou utilize outros meios para ter uma carteira online no Android ou iOS, e utilize formas de assinar suas transações por QR Code. Não sou responsável por qualquer furto dos seus Bitcoins caso você quebre qualquer regra de segurança, inclusive ignorando este aviso.
 
-**Tutorial em Português: Criando uma Carteira Fria de Bitcoin Usando Tails OS e Armazenamento Persistente**
+**Tutorial em Português: Criando uma Carteira Fria de Bitcoin Usando TailsOS e Armazenamento Persistente**
 
 Neste tutorial, usarei o Windows 10. Você também precisará de um pen drive com pelo menos 8GB de espaço.
 
